@@ -1,0 +1,3346 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="07.08.2025 8:56:43">
+	<shop>
+		<name>Kasta</name>
+		<currencies>
+			<currency id="UAH" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="9731d878-7254-11e8-bc9e-28107b461651">Рубашка</category>
+			<category id="1bfe433e-892e-11ee-812a-0c9d92ccc742">Футболка (нова)</category>
+			<category id="9731d857-7254-11e8-bc9e-28107b461651">Куртка</category>
+			<category id="9731d856-7254-11e8-bc9e-28107b461651">Костюм</category>
+			<category id="9731d874-7254-11e8-bc9e-28107b461651">Платье</category>
+			<category id="9731d873-7254-11e8-bc9e-28107b461651">Полукомбинезон</category>
+			<category id="9731d87f-7254-11e8-bc9e-28107b461651">Сарафан</category>
+			<category id="9731d86b-7254-11e8-bc9e-28107b461651">Юбка</category>
+			<category id="9731d89c-7254-11e8-bc9e-28107b461651">Жилетка</category>
+			<category id="9731d859-7254-11e8-bc9e-28107b461651">Футболка</category>
+			<category id="9731d861-7254-11e8-bc9e-28107b461651">Штанишки</category>
+			<category id="cfe5b8dc-0595-11ec-8109-f4f26d0481b7" parentId="9731d878-7254-11e8-bc9e-28107b461651">Жакет</category>
+			<category id="a10b433b-892e-11ee-812a-0c9d92ccc742" parentId="1bfe433e-892e-11ee-812a-0c9d92ccc742">Фуфайка</category>
+			<category id="2f041192-c3fa-11ee-812a-0c9d92ccc742" parentId="9731d857-7254-11e8-bc9e-28107b461651">Жакет</category>
+			<category id="128f4d0b-12c6-11ef-812f-f4f26d0481b7" parentId="9731d856-7254-11e8-bc9e-28107b461651">Костюм літній</category>
+			<category id="7e892405-d425-11e7-9bd7-f079598fae65" parentId="9731d874-7254-11e8-bc9e-28107b461651">Сукня</category>
+			<category id="7e892408-d425-11e7-9bd7-f079598fae65" parentId="9731d873-7254-11e8-bc9e-28107b461651">Напівкомбінезон</category>
+			<category id="7e89240b-d425-11e7-9bd7-f079598fae65" parentId="9731d87f-7254-11e8-bc9e-28107b461651">Сарафан</category>
+			<category id="7e892418-d425-11e7-9bd7-f079598fae65" parentId="9731d857-7254-11e8-bc9e-28107b461651">Куртка</category>
+			<category id="7e89241b-d425-11e7-9bd7-f079598fae65" parentId="9731d86b-7254-11e8-bc9e-28107b461651">Спідниця</category>
+			<category id="7e89241f-d425-11e7-9bd7-f079598fae65" parentId="9731d89c-7254-11e8-bc9e-28107b461651">Жилет</category>
+			<category id="9731d85b-7254-11e8-bc9e-28107b461651" parentId="9731d859-7254-11e8-bc9e-28107b461651">Фуфайка</category>
+			<category id="9731d85d-7254-11e8-bc9e-28107b461651" parentId="9731d859-7254-11e8-bc9e-28107b461651">Джемпер</category>
+			<category id="9731d865-7254-11e8-bc9e-28107b461651" parentId="9731d861-7254-11e8-bc9e-28107b461651">Штани</category>
+			<category id="9731d87b-7254-11e8-bc9e-28107b461651" parentId="9731d878-7254-11e8-bc9e-28107b461651">Сорочка верхня</category>
+		</categories>
+		<offers>
+			<offer id="ad93a676-0991-11ed-810f-0c9d92ccc742" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сарафан СФ143 тканина костюмна, р.146 / Сірий / X00</name_ua>
+				<article>201430253</article>
+				<categoryId>7e89240b-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>321</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/sf143(53)_01(x00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/sf143(53)_01(x00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Сарафан в клітинку. Має широкі бретелі, що дуже зручно для Ваших діток. Оздоблення у вигляді кишень  спереду. Застібається на гудзики спереду. Має стильний та стриманий вигляд одночасно.</description_ua>
+				<param name="Розмір">146</param>
+				<param name="Колір">Сірий</param>
+				<param name="Штрихкод">4823116452435</param>
+				<param name="Модель">СФ143 тканина костюмна</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Тканина костюмна</param>
+				<param name="Склад">Поліестер 65%, Віскоза 35%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="ad93a678-0991-11ed-810f-0c9d92ccc742" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сарафан СФ143 тканина костюмна, р.152 / Сірий / X00</name_ua>
+				<article>201430253</article>
+				<categoryId>7e89240b-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>341</price>
+				<stock_quantity>8</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/sf143(53)_01(x00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/sf143(53)_01(x00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Сарафан в клітинку. Має широкі бретелі, що дуже зручно для Ваших діток. Оздоблення у вигляді кишень  спереду. Застібається на гудзики спереду. Має стильний та стриманий вигляд одночасно.</description_ua>
+				<param name="Розмір">152</param>
+				<param name="Колір">Сірий</param>
+				<param name="Штрихкод">4823116452442</param>
+				<param name="Модель">СФ143 тканина костюмна</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Тканина костюмна</param>
+				<param name="Склад">Поліестер 65%, Віскоза 35%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="ad93a67a-0991-11ed-810f-0c9d92ccc742" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сарафан СФ143 тканина костюмна, р.158 / Сірий / X00</name_ua>
+				<article>201430253</article>
+				<categoryId>7e89240b-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>341</price>
+				<stock_quantity>10</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/sf143(53)_01(x00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/sf143(53)_01(x00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Сарафан в клітинку. Має широкі бретелі, що дуже зручно для Ваших діток. Оздоблення у вигляді кишень  спереду. Застібається на гудзики спереду. Має стильний та стриманий вигляд одночасно.</description_ua>
+				<param name="Розмір">158</param>
+				<param name="Колір">Сірий</param>
+				<param name="Штрихкод">4823116452459</param>
+				<param name="Модель">СФ143 тканина костюмна</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Тканина костюмна</param>
+				<param name="Склад">Поліестер 65%, Віскоза 35%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="79fe629a-9853-11ed-8124-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Жилет ЖЛ47 плащівка, р. 80 / Зелений, Синій, Малюнок / 681</name_ua>
+				<article>400473033</article>
+				<categoryId>7e89241f-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>747</price>
+				<stock_quantity>22</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)d.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)e.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Жилет універсальний, демісезонний (верх - водовідштовхувальна плащівка, підкладка - супрем). Весь виріб відшитий на утеплювачі «Comforlight» НО 160 вес 50г/м2 - товщина 0,5 см. Жилет з  великим капюшоном. Застібка блискавка з вітрозахисною планкою. По боках вшивні кишені. Яскраві трендові кольори доповнять образ вашої дитини.</description_ua>
+				<param name="Розмір">80</param>
+				<param name="Колір">Зелений</param>
+				<param name="Додатковий Колір">Синій</param>
+				<param name="Додаткова характеристика">Малюнок</param>
+				<param name="Штрихкод">4823116471542</param>
+				<param name="Модель">ЖЛ47 плащівка</param>
+				<param name="Стать">Унісекс</param>
+				<param name="Матеріал">Плащівка</param>
+				<param name="Склад">Поліестер 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="79fe629b-9853-11ed-8124-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Жилет ЖЛ47 плащівка, р. 86 / Зелений, Синій, Малюнок / 681</name_ua>
+				<article>400473033</article>
+				<categoryId>7e89241f-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>747</price>
+				<stock_quantity>14</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)d.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)e.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Жилет універсальний, демісезонний (верх - водовідштовхувальна плащівка, підкладка - супрем). Весь виріб відшитий на утеплювачі «Comforlight» НО 160 вес 50г/м2 - товщина 0,5 см. Жилет з  великим капюшоном. Застібка блискавка з вітрозахисною планкою. По боках вшивні кишені. Яскраві трендові кольори доповнять образ вашої дитини.</description_ua>
+				<param name="Розмір">86</param>
+				<param name="Колір">Зелений</param>
+				<param name="Додатковий Колір">Синій</param>
+				<param name="Додаткова характеристика">Малюнок</param>
+				<param name="Штрихкод">4823116471559</param>
+				<param name="Модель">ЖЛ47 плащівка</param>
+				<param name="Стать">Унісекс</param>
+				<param name="Матеріал">Плащівка</param>
+				<param name="Склад">Поліестер 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="79fe629c-9853-11ed-8124-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Жилет ЖЛ47 плащівка, р. 92 / Зелений, Синій, Малюнок / 681</name_ua>
+				<article>400473033</article>
+				<categoryId>7e89241f-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>747</price>
+				<stock_quantity>12</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)d.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)e.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Жилет універсальний, демісезонний (верх - водовідштовхувальна плащівка, підкладка - супрем). Весь виріб відшитий на утеплювачі «Comforlight» НО 160 вес 50г/м2 - товщина 0,5 см. Жилет з  великим капюшоном. Застібка блискавка з вітрозахисною планкою. По боках вшивні кишені. Яскраві трендові кольори доповнять образ вашої дитини.</description_ua>
+				<param name="Розмір">92</param>
+				<param name="Колір">Зелений</param>
+				<param name="Додатковий Колір">Синій</param>
+				<param name="Додаткова характеристика">Малюнок</param>
+				<param name="Штрихкод">4823116471566</param>
+				<param name="Модель">ЖЛ47 плащівка</param>
+				<param name="Стать">Унісекс</param>
+				<param name="Матеріал">Плащівка</param>
+				<param name="Склад">Поліестер 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="79fe629d-9853-11ed-8124-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Жилет ЖЛ47 плащівка, р. 98 / Зелений, Синій, Малюнок / 681</name_ua>
+				<article>400473033</article>
+				<categoryId>7e89241f-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>747</price>
+				<stock_quantity>14</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)d.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)e.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Жилет універсальний, демісезонний (верх - водовідштовхувальна плащівка, підкладка - супрем). Весь виріб відшитий на утеплювачі «Comforlight» НО 160 вес 50г/м2 - товщина 0,5 см. Жилет з  великим капюшоном. Застібка блискавка з вітрозахисною планкою. По боках вшивні кишені. Яскраві трендові кольори доповнять образ вашої дитини.</description_ua>
+				<param name="Розмір">98</param>
+				<param name="Колір">Зелений</param>
+				<param name="Додатковий Колір">Синій</param>
+				<param name="Додаткова характеристика">Малюнок</param>
+				<param name="Штрихкод">4823116471573</param>
+				<param name="Модель">ЖЛ47 плащівка</param>
+				<param name="Стать">Унісекс</param>
+				<param name="Матеріал">Плащівка</param>
+				<param name="Склад">Поліестер 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="79fe629e-9853-11ed-8124-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Жилет ЖЛ47 плащівка, р.104 / Зелений, Синій, Малюнок / 681</name_ua>
+				<article>400473033</article>
+				<categoryId>7e89241f-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>747</price>
+				<stock_quantity>14</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)d.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)e.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Жилет універсальний, демісезонний (верх - водовідштовхувальна плащівка, підкладка - супрем). Весь виріб відшитий на утеплювачі «Comforlight» НО 160 вес 50г/м2 - товщина 0,5 см. Жилет з  великим капюшоном. Застібка блискавка з вітрозахисною планкою. По боках вшивні кишені. Яскраві трендові кольори доповнять образ вашої дитини.</description_ua>
+				<param name="Розмір">104</param>
+				<param name="Колір">Зелений</param>
+				<param name="Додатковий Колір">Синій</param>
+				<param name="Додаткова характеристика">Малюнок</param>
+				<param name="Штрихкод">4823116471580</param>
+				<param name="Модель">ЖЛ47 плащівка</param>
+				<param name="Стать">Унісекс</param>
+				<param name="Матеріал">Плащівка</param>
+				<param name="Склад">Поліестер 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="79fe629f-9853-11ed-8124-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Жилет ЖЛ47 плащівка, р.110 / Зелений, Синій, Малюнок / 681</name_ua>
+				<article>400473033</article>
+				<categoryId>7e89241f-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>747</price>
+				<stock_quantity>10</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)d.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/jl47(33)_01(681)e.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Жилет універсальний, демісезонний (верх - водовідштовхувальна плащівка, підкладка - супрем). Весь виріб відшитий на утеплювачі «Comforlight» НО 160 вес 50г/м2 - товщина 0,5 см. Жилет з  великим капюшоном. Застібка блискавка з вітрозахисною планкою. По боках вшивні кишені. Яскраві трендові кольори доповнять образ вашої дитини.</description_ua>
+				<param name="Розмір">110</param>
+				<param name="Колір">Зелений</param>
+				<param name="Додатковий Колір">Синій</param>
+				<param name="Додаткова характеристика">Малюнок</param>
+				<param name="Штрихкод">4823116471597</param>
+				<param name="Модель">ЖЛ47 плащівка</param>
+				<param name="Стать">Унісекс</param>
+				<param name="Матеріал">Плащівка</param>
+				<param name="Склад">Поліестер 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="1afcd536-779b-11ec-810d-0c9d92ccc742" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР743 котон, р.134 / Охра / E00</name_ua>
+				<article>267437234</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>367</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/img_0881.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr743(34)_01(e00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr743(34)_01(e00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr743(34)_01(e00)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr743(34)_01(e00)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Брюки для дівчинки. Матеріал – котон. Штани з еластичним поясом на резинці з зав’язками. По боках вшивні кишені, ззаду –декоративні. Такі штани ідеально можна поєднати з лонгслівом, футболкою, сорочкою чи топом. Склад: 100% бавовна.</description_ua>
+				<param name="Розмір">134</param>
+				<param name="Колір">Охра</param>
+				<param name="Штрихкод">4823116434271</param>
+				<param name="Модель">ШР743 котон</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Котон</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="1afcd537-779b-11ec-810d-0c9d92ccc742" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР743 котон, р.140 / Охра / E00</name_ua>
+				<article>267437234</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>367</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/img_0881.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr743(34)_01(e00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr743(34)_01(e00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr743(34)_01(e00)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr743(34)_01(e00)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Брюки для дівчинки. Матеріал – котон. Штани з еластичним поясом на резинці з зав’язками. По боках вшивні кишені, ззаду –декоративні. Такі штани ідеально можна поєднати з лонгслівом, футболкою, сорочкою чи топом. Склад: 100% бавовна.</description_ua>
+				<param name="Розмір">140</param>
+				<param name="Колір">Охра</param>
+				<param name="Штрихкод">4823116434288</param>
+				<param name="Модель">ШР743 котон</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Котон</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="1cb478ce-11ee-11ed-8110-0c9d92ccc742" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФБ920 інтерлок, р.140 / М`ятний / U00</name_ua>
+				<article>249207211</article>
+				<categoryId>9731d85b-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>225</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/fb920(11)_01(u00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/fb920(11)_01(u00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua>   Джемпер для дівчинки.   Рукав довгий вшивний на манжеті. Горловина кругла. Довжина середня, прямий силует. . Спереду друк.</description_ua>
+				<param name="Розмір">140</param>
+				<param name="Колір">М`ятний</param>
+				<param name="Штрихкод">4823116456143</param>
+				<param name="Модель">ФБ920 інтерлок</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Інтерлок</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="1cb478d0-11ee-11ed-8110-0c9d92ccc742" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФБ920 інтерлок, р.152 / М`ятний / U00</name_ua>
+				<article>249207211</article>
+				<categoryId>9731d85b-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>243</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/fb920(11)_01(u00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/fb920(11)_01(u00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua>   Джемпер для дівчинки.   Рукав довгий вшивний на манжеті. Горловина кругла. Довжина середня, прямий силует. . Спереду друк.</description_ua>
+				<param name="Розмір">152</param>
+				<param name="Колір">М`ятний</param>
+				<param name="Штрихкод">4823116456167</param>
+				<param name="Модель">ФБ920 інтерлок</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Інтерлок</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="1cb478d1-11ee-11ed-8110-0c9d92ccc742" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФБ920 інтерлок, р.158 / М`ятний / U00</name_ua>
+				<article>249207211</article>
+				<categoryId>9731d85b-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>243</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/fb920(11)_01(u00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/fb920(11)_01(u00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua>   Джемпер для дівчинки.   Рукав довгий вшивний на манжеті. Горловина кругла. Довжина середня, прямий силует. . Спереду друк.</description_ua>
+				<param name="Розмір">158</param>
+				<param name="Колір">М`ятний</param>
+				<param name="Штрихкод">4823116456174</param>
+				<param name="Модель">ФБ920 інтерлок</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Інтерлок</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="1cb478ed-11ee-11ed-8110-0c9d92ccc742" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Джемпер ФБ922 інтерлок, р.146 / Абрикосовий / I00</name_ua>
+				<article>249227211</article>
+				<categoryId>9731d85d-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>362</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/fb922(11)_01(i00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/fb922(11)_01(i00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua>  Джемпер вільного крою для дівчинки. Рукав довгий широкий, внизу фіксується резинкою. Верхній зріз рукава  прикрашений рюшею. Горловина кругла.  На моделі з однотоної тканини лаконічний друк.</description_ua>
+				<param name="Розмір">146</param>
+				<param name="Колір">Абрикосовий</param>
+				<param name="Штрихкод">4823116456457</param>
+				<param name="Модель">ФБ922 інтерлок</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Інтерлок</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="1cb478ee-11ee-11ed-8110-0c9d92ccc742" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Джемпер ФБ922 інтерлок, р.152 / Абрикосовий / I00</name_ua>
+				<article>249227211</article>
+				<categoryId>9731d85d-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>293.4</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/fb922(11)_01(i00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/fb922(11)_01(i00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua>  Джемпер вільного крою для дівчинки. Рукав довгий широкий, внизу фіксується резинкою. Верхній зріз рукава  прикрашений рюшею. Горловина кругла.  На моделі з однотоної тканини лаконічний друк.</description_ua>
+				<param name="Розмір">152</param>
+				<param name="Колір">Абрикосовий</param>
+				<param name="Штрихкод">4823116456464</param>
+				<param name="Модель">ФБ922 інтерлок</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Інтерлок</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="1cb478ef-11ee-11ed-8110-0c9d92ccc742" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Джемпер ФБ922 інтерлок, р.158 / Абрикосовий / I00</name_ua>
+				<article>249227211</article>
+				<categoryId>9731d85d-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>293.4</price>
+				<stock_quantity>10</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/fb922(11)_01(i00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/fb922(11)_01(i00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua>  Джемпер вільного крою для дівчинки. Рукав довгий широкий, внизу фіксується резинкою. Верхній зріз рукава  прикрашений рюшею. Горловина кругла.  На моделі з однотоної тканини лаконічний друк.</description_ua>
+				<param name="Розмір">158</param>
+				<param name="Колір">Абрикосовий</param>
+				<param name="Штрихкод">4823116456471</param>
+				<param name="Модель">ФБ922 інтерлок</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Інтерлок</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="6791377c-9c95-11ed-8124-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сукня ПЛ385 трикотаж тринитка, р.116 / Рожевий, Друк / 305</name_ua>
+				<article>143857266</article>
+				<categoryId>7e892405-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>616</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl385(66)_01(305)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl385(66)_01(305)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua>  Сукня з фігурним низом, комірцем та застібкою спереду.  Манжети рукав з качкорси, комірець з основної тканини. Тканина тринитка, актуальні кольори, яскравий друк.</description_ua>
+				<param name="Розмір">116</param>
+				<param name="Колір">Рожевий</param>
+				<param name="Додаткова характеристика">Друк</param>
+				<param name="Штрихкод">4823116474024</param>
+				<param name="Модель">ПЛ385 трикотаж тринитка</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Трикотаж тринитка</param>
+				<param name="Склад">Бавовна 88%, Поліестер 12%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="67913780-9c95-11ed-8124-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сукня ПЛ385 трикотаж тринитка, р.122 / Рожевий, Друк / 305</name_ua>
+				<article>143857266</article>
+				<categoryId>7e892405-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>616</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl385(66)_01(305)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl385(66)_01(305)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua>  Сукня з фігурним низом, комірцем та застібкою спереду.  Манжети рукав з качкорси, комірець з основної тканини. Тканина тринитка, актуальні кольори, яскравий друк.</description_ua>
+				<param name="Розмір">122</param>
+				<param name="Колір">Рожевий</param>
+				<param name="Додаткова характеристика">Друк</param>
+				<param name="Штрихкод">4823116474031</param>
+				<param name="Модель">ПЛ385 трикотаж тринитка</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Трикотаж тринитка</param>
+				<param name="Склад">Бавовна 88%, Поліестер 12%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="67913784-9c95-11ed-8124-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сукня ПЛ385 трикотаж тринитка, р.128 / Рожевий, Друк / 305</name_ua>
+				<article>143857266</article>
+				<categoryId>7e892405-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>616</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl385(66)_01(305)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl385(66)_01(305)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua>  Сукня з фігурним низом, комірцем та застібкою спереду.  Манжети рукав з качкорси, комірець з основної тканини. Тканина тринитка, актуальні кольори, яскравий друк.</description_ua>
+				<param name="Розмір">128</param>
+				<param name="Колір">Рожевий</param>
+				<param name="Додаткова характеристика">Друк</param>
+				<param name="Штрихкод">4823116474048</param>
+				<param name="Модель">ПЛ385 трикотаж тринитка</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Трикотаж тринитка</param>
+				<param name="Склад">Бавовна 88%, Поліестер 12%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="67913788-9c95-11ed-8124-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сукня ПЛ385 трикотаж тринитка, р.134 / Рожевий, Друк / 305</name_ua>
+				<article>143857266</article>
+				<categoryId>7e892405-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>616</price>
+				<stock_quantity>8</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl385(66)_01(305)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl385(66)_01(305)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua>  Сукня з фігурним низом, комірцем та застібкою спереду.  Манжети рукав з качкорси, комірець з основної тканини. Тканина тринитка, актуальні кольори, яскравий друк.</description_ua>
+				<param name="Розмір">134</param>
+				<param name="Колір">Рожевий</param>
+				<param name="Додаткова характеристика">Друк</param>
+				<param name="Штрихкод">4823116474055</param>
+				<param name="Модель">ПЛ385 трикотаж тринитка</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Трикотаж тринитка</param>
+				<param name="Склад">Бавовна 88%, Поліестер 12%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="6791378c-9c95-11ed-8124-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сукня ПЛ385 трикотаж тринитка, р.140 / Рожевий, Друк / 305</name_ua>
+				<article>143857266</article>
+				<categoryId>7e892405-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>616</price>
+				<stock_quantity>13</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl385(66)_01(305)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl385(66)_01(305)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua>  Сукня з фігурним низом, комірцем та застібкою спереду.  Манжети рукав з качкорси, комірець з основної тканини. Тканина тринитка, актуальні кольори, яскравий друк.</description_ua>
+				<param name="Розмір">140</param>
+				<param name="Колір">Рожевий</param>
+				<param name="Додаткова характеристика">Друк</param>
+				<param name="Штрихкод">4823116474062</param>
+				<param name="Модель">ПЛ385 трикотаж тринитка</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Трикотаж тринитка</param>
+				<param name="Склад">Бавовна 88%, Поліестер 12%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="67913790-9c95-11ed-8124-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сукня ПЛ385 трикотаж тринитка, р.146 / Рожевий, Друк / 305</name_ua>
+				<article>143857266</article>
+				<categoryId>7e892405-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>616</price>
+				<stock_quantity>10</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl385(66)_01(305)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl385(66)_01(305)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua>  Сукня з фігурним низом, комірцем та застібкою спереду.  Манжети рукав з качкорси, комірець з основної тканини. Тканина тринитка, актуальні кольори, яскравий друк.</description_ua>
+				<param name="Розмір">146</param>
+				<param name="Колір">Рожевий</param>
+				<param name="Додаткова характеристика">Друк</param>
+				<param name="Штрихкод">4823116474079</param>
+				<param name="Модель">ПЛ385 трикотаж тринитка</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Трикотаж тринитка</param>
+				<param name="Склад">Бавовна 88%, Поліестер 12%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="67913794-9c95-11ed-8124-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сукня ПЛ385 трикотаж тринитка, р.152 / Рожевий, Друк / 305</name_ua>
+				<article>143857266</article>
+				<categoryId>7e892405-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>662</price>
+				<stock_quantity>17</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl385(66)_01(305)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl385(66)_01(305)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua>  Сукня з фігурним низом, комірцем та застібкою спереду.  Манжети рукав з качкорси, комірець з основної тканини. Тканина тринитка, актуальні кольори, яскравий друк.</description_ua>
+				<param name="Розмір">152</param>
+				<param name="Колір">Рожевий</param>
+				<param name="Додаткова характеристика">Друк</param>
+				<param name="Штрихкод">4823116474086</param>
+				<param name="Модель">ПЛ385 трикотаж тринитка</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Трикотаж тринитка</param>
+				<param name="Склад">Бавовна 88%, Поліестер 12%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="67913798-9c95-11ed-8124-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сукня ПЛ385 трикотаж тринитка, р.158 / Рожевий, Друк / 305</name_ua>
+				<article>143857266</article>
+				<categoryId>7e892405-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>662</price>
+				<stock_quantity>12</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl385(66)_01(305)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl385(66)_01(305)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua>  Сукня з фігурним низом, комірцем та застібкою спереду.  Манжети рукав з качкорси, комірець з основної тканини. Тканина тринитка, актуальні кольори, яскравий друк.</description_ua>
+				<param name="Розмір">158</param>
+				<param name="Колір">Рожевий</param>
+				<param name="Додаткова характеристика">Друк</param>
+				<param name="Штрихкод">4823116474093</param>
+				<param name="Модель">ПЛ385 трикотаж тринитка</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Трикотаж тринитка</param>
+				<param name="Склад">Бавовна 88%, Поліестер 12%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a2dfdeac-abf8-11ed-8126-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Куртка КТ299 плащівка, р. 80 / М`ятний / U00</name_ua>
+				<article>332994033</article>
+				<categoryId>7e892418-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>862</price>
+				<stock_quantity>12</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)d.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)e.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)f.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)g.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Куртка демісезонна, прямого силуету  на підкладці. Застібка центральна на «блискавку».  Спереду накладна кишеня. Рукав вшивний. Низ рукавів та низ куртки зібраний на резинку. Каптур вшивний.. Склад тканини: плащівка 100% поліестер; підкладка: супрем 100% бавовна..</description_ua>
+				<param name="Розмір">80</param>
+				<param name="Колір">М`ятний</param>
+				<param name="Штрихкод">4823116477292</param>
+				<param name="Модель">КТ299 плащівка</param>
+				<param name="Стать">Унісекс</param>
+				<param name="Матеріал">Плащівка</param>
+				<param name="Склад">Поліестер 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a2dfdead-abf8-11ed-8126-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Куртка КТ299 плащівка, р. 86 / М`ятний / U00</name_ua>
+				<article>332994033</article>
+				<categoryId>7e892418-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>862</price>
+				<stock_quantity>11</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)d.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)e.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)f.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)g.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Куртка демісезонна, прямого силуету  на підкладці. Застібка центральна на «блискавку».  Спереду накладна кишеня. Рукав вшивний. Низ рукавів та низ куртки зібраний на резинку. Каптур вшивний.. Склад тканини: плащівка 100% поліестер; підкладка: супрем 100% бавовна..</description_ua>
+				<param name="Розмір">86</param>
+				<param name="Колір">М`ятний</param>
+				<param name="Штрихкод">4823116477308</param>
+				<param name="Модель">КТ299 плащівка</param>
+				<param name="Стать">Унісекс</param>
+				<param name="Матеріал">Плащівка</param>
+				<param name="Склад">Поліестер 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a2dfdeae-abf8-11ed-8126-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Куртка КТ299 плащівка, р. 92 / М`ятний / U00</name_ua>
+				<article>332994033</article>
+				<categoryId>7e892418-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>862</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)d.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)e.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)f.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)g.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Куртка демісезонна, прямого силуету  на підкладці. Застібка центральна на «блискавку».  Спереду накладна кишеня. Рукав вшивний. Низ рукавів та низ куртки зібраний на резинку. Каптур вшивний.. Склад тканини: плащівка 100% поліестер; підкладка: супрем 100% бавовна..</description_ua>
+				<param name="Розмір">92</param>
+				<param name="Колір">М`ятний</param>
+				<param name="Штрихкод">4823116477315</param>
+				<param name="Модель">КТ299 плащівка</param>
+				<param name="Стать">Унісекс</param>
+				<param name="Матеріал">Плащівка</param>
+				<param name="Склад">Поліестер 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a2dfdeaf-abf8-11ed-8126-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Куртка КТ299 плащівка, р. 98 / М`ятний / U00</name_ua>
+				<article>332994033</article>
+				<categoryId>7e892418-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>862</price>
+				<stock_quantity>13</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)d.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)e.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)f.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)g.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Куртка демісезонна, прямого силуету  на підкладці. Застібка центральна на «блискавку».  Спереду накладна кишеня. Рукав вшивний. Низ рукавів та низ куртки зібраний на резинку. Каптур вшивний.. Склад тканини: плащівка 100% поліестер; підкладка: супрем 100% бавовна..</description_ua>
+				<param name="Розмір">98</param>
+				<param name="Колір">М`ятний</param>
+				<param name="Штрихкод">4823116477322</param>
+				<param name="Модель">КТ299 плащівка</param>
+				<param name="Стать">Унісекс</param>
+				<param name="Матеріал">Плащівка</param>
+				<param name="Склад">Поліестер 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a2dfdeb0-abf8-11ed-8126-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Куртка КТ299 плащівка, р.104 / М`ятний / U00</name_ua>
+				<article>332994033</article>
+				<categoryId>7e892418-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>862</price>
+				<stock_quantity>9</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)d.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)e.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)f.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)g.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Куртка демісезонна, прямого силуету  на підкладці. Застібка центральна на «блискавку».  Спереду накладна кишеня. Рукав вшивний. Низ рукавів та низ куртки зібраний на резинку. Каптур вшивний.. Склад тканини: плащівка 100% поліестер; підкладка: супрем 100% бавовна..</description_ua>
+				<param name="Розмір">104</param>
+				<param name="Колір">М`ятний</param>
+				<param name="Штрихкод">4823116477339</param>
+				<param name="Модель">КТ299 плащівка</param>
+				<param name="Стать">Унісекс</param>
+				<param name="Матеріал">Плащівка</param>
+				<param name="Склад">Поліестер 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a2dfdeb1-abf8-11ed-8126-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Куртка КТ299 плащівка, р.110 / М`ятний / U00</name_ua>
+				<article>332994033</article>
+				<categoryId>7e892418-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>862</price>
+				<stock_quantity>10</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)d.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)e.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)f.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt299(33)_10(u00)g.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Куртка демісезонна, прямого силуету  на підкладці. Застібка центральна на «блискавку».  Спереду накладна кишеня. Рукав вшивний. Низ рукавів та низ куртки зібраний на резинку. Каптур вшивний.. Склад тканини: плащівка 100% поліестер; підкладка: супрем 100% бавовна..</description_ua>
+				<param name="Розмір">110</param>
+				<param name="Колір">М`ятний</param>
+				<param name="Штрихкод">4823116477346</param>
+				<param name="Модель">КТ299 плащівка</param>
+				<param name="Стать">Унісекс</param>
+				<param name="Матеріал">Плащівка</param>
+				<param name="Склад">Поліестер 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a2dfdec8-abf8-11ed-8126-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Куртка КТ300 плащівка, р.116 / Сірий / X00</name_ua>
+				<article>333003233</article>
+				<categoryId>7e892418-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>836</price>
+				<stock_quantity>12</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)d.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)e.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)f.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)g.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Куртка демісезонна, прямого силуету  на підкладці. Застібка центральна на «блискавку».  Прорізні кишені з листочками. Рукав вшивний, призібраний на резинку. Низ куртки регулюеться декоративним шнуром. Каптур пришивний. Склад тканини: плащівка 100% поліестер; підкладка: супрем 100% бавовна.</description_ua>
+				<param name="Розмір">116</param>
+				<param name="Колір">Сірий</param>
+				<param name="Штрихкод">4823116477575</param>
+				<param name="Модель">КТ300 плащівка</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Плащівка</param>
+				<param name="Склад">Поліестер 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a2dfdec9-abf8-11ed-8126-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Куртка КТ300 плащівка, р.122 / Сірий / X00</name_ua>
+				<article>333003233</article>
+				<categoryId>7e892418-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>836</price>
+				<stock_quantity>15</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)d.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)e.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)f.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)g.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Куртка демісезонна, прямого силуету  на підкладці. Застібка центральна на «блискавку».  Прорізні кишені з листочками. Рукав вшивний, призібраний на резинку. Низ куртки регулюеться декоративним шнуром. Каптур пришивний. Склад тканини: плащівка 100% поліестер; підкладка: супрем 100% бавовна.</description_ua>
+				<param name="Розмір">122</param>
+				<param name="Колір">Сірий</param>
+				<param name="Штрихкод">4823116477582</param>
+				<param name="Модель">КТ300 плащівка</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Плащівка</param>
+				<param name="Склад">Поліестер 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a2dfdeca-abf8-11ed-8126-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Куртка КТ300 плащівка, р.128 / Сірий / X00</name_ua>
+				<article>333003233</article>
+				<categoryId>7e892418-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>936</price>
+				<stock_quantity>11</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)d.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)e.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)f.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)g.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Куртка демісезонна, прямого силуету  на підкладці. Застібка центральна на «блискавку».  Прорізні кишені з листочками. Рукав вшивний, призібраний на резинку. Низ куртки регулюеться декоративним шнуром. Каптур пришивний. Склад тканини: плащівка 100% поліестер; підкладка: супрем 100% бавовна.</description_ua>
+				<param name="Розмір">128</param>
+				<param name="Колір">Сірий</param>
+				<param name="Штрихкод">4823116477599</param>
+				<param name="Модель">КТ300 плащівка</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Плащівка</param>
+				<param name="Склад">Поліестер 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a2dfdecb-abf8-11ed-8126-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Куртка КТ300 плащівка, р.134 / Сірий / X00</name_ua>
+				<article>333003233</article>
+				<categoryId>7e892418-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>936</price>
+				<stock_quantity>13</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)d.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)e.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)f.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)g.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Куртка демісезонна, прямого силуету  на підкладці. Застібка центральна на «блискавку».  Прорізні кишені з листочками. Рукав вшивний, призібраний на резинку. Низ куртки регулюеться декоративним шнуром. Каптур пришивний. Склад тканини: плащівка 100% поліестер; підкладка: супрем 100% бавовна.</description_ua>
+				<param name="Розмір">134</param>
+				<param name="Колір">Сірий</param>
+				<param name="Штрихкод">4823116477605</param>
+				<param name="Модель">КТ300 плащівка</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Плащівка</param>
+				<param name="Склад">Поліестер 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a2dfdecc-abf8-11ed-8126-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Куртка КТ300 плащівка, р.140 / Сірий / X00</name_ua>
+				<article>333003233</article>
+				<categoryId>7e892418-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>936</price>
+				<stock_quantity>4</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)d.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)e.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)f.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)g.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Куртка демісезонна, прямого силуету  на підкладці. Застібка центральна на «блискавку».  Прорізні кишені з листочками. Рукав вшивний, призібраний на резинку. Низ куртки регулюеться декоративним шнуром. Каптур пришивний. Склад тканини: плащівка 100% поліестер; підкладка: супрем 100% бавовна.</description_ua>
+				<param name="Розмір">140</param>
+				<param name="Колір">Сірий</param>
+				<param name="Штрихкод">4823116477612</param>
+				<param name="Модель">КТ300 плащівка</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Плащівка</param>
+				<param name="Склад">Поліестер 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a2dfdecd-abf8-11ed-8126-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Куртка КТ300 плащівка, р.146 / Сірий / X00</name_ua>
+				<article>333003233</article>
+				<categoryId>7e892418-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>936</price>
+				<stock_quantity>15</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)d.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)e.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)f.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)g.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Куртка демісезонна, прямого силуету  на підкладці. Застібка центральна на «блискавку».  Прорізні кишені з листочками. Рукав вшивний, призібраний на резинку. Низ куртки регулюеться декоративним шнуром. Каптур пришивний. Склад тканини: плащівка 100% поліестер; підкладка: супрем 100% бавовна.</description_ua>
+				<param name="Розмір">146</param>
+				<param name="Колір">Сірий</param>
+				<param name="Штрихкод">4823116477629</param>
+				<param name="Модель">КТ300 плащівка</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Плащівка</param>
+				<param name="Склад">Поліестер 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a2dfdece-abf8-11ed-8126-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Куртка КТ300 плащівка, р.152 / Сірий / X00</name_ua>
+				<article>333003233</article>
+				<categoryId>7e892418-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>996</price>
+				<stock_quantity>13</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)d.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)e.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)f.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)g.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Куртка демісезонна, прямого силуету  на підкладці. Застібка центральна на «блискавку».  Прорізні кишені з листочками. Рукав вшивний, призібраний на резинку. Низ куртки регулюеться декоративним шнуром. Каптур пришивний. Склад тканини: плащівка 100% поліестер; підкладка: супрем 100% бавовна.</description_ua>
+				<param name="Розмір">152</param>
+				<param name="Колір">Сірий</param>
+				<param name="Штрихкод">4823116477636</param>
+				<param name="Модель">КТ300 плащівка</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Плащівка</param>
+				<param name="Склад">Поліестер 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a2dfdecf-abf8-11ed-8126-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Куртка КТ300 плащівка, р.158 / Сірий / X00</name_ua>
+				<article>333003233</article>
+				<categoryId>7e892418-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>996</price>
+				<stock_quantity>16</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)d.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)e.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)f.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt300(33)_10(x00)g.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Куртка демісезонна, прямого силуету  на підкладці. Застібка центральна на «блискавку».  Прорізні кишені з листочками. Рукав вшивний, призібраний на резинку. Низ куртки регулюеться декоративним шнуром. Каптур пришивний. Склад тканини: плащівка 100% поліестер; підкладка: супрем 100% бавовна.</description_ua>
+				<param name="Розмір">158</param>
+				<param name="Колір">Сірий</param>
+				<param name="Штрихкод">4823116477643</param>
+				<param name="Модель">КТ300 плащівка</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Плащівка</param>
+				<param name="Склад">Поліестер 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="3df9e103-9c99-11ed-8124-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Жакет РБ179 котон, р.128 / Сірий / X00</name_ua>
+				<article>191797034</article>
+				<categoryId>cfe5b8dc-0595-11ec-8109-f4f26d0481b7</categoryId>
+				<price>681</price>
+				<stock_quantity>19</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb179(34)_10(x00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb179(34)_10(x00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Сорочка верхня котонова. Довгий рукав на кнопці, відкладний комірець, дві кишені спереду. Тканина гарно тримає форму. Виріб застібається на кнопки.</description_ua>
+				<param name="Розмір">128</param>
+				<param name="Колір">Сірий</param>
+				<param name="Штрихкод">4823116472273</param>
+				<param name="Модель">РБ179 котон</param>
+				<param name="Стать">Унісекс</param>
+				<param name="Матеріал">Котон</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="3df9e109-9c99-11ed-8124-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Жакет РБ179 котон, р.146 / Сірий / X00</name_ua>
+				<article>191797034</article>
+				<categoryId>cfe5b8dc-0595-11ec-8109-f4f26d0481b7</categoryId>
+				<price>681</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb179(34)_10(x00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb179(34)_10(x00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Сорочка верхня котонова. Довгий рукав на кнопці, відкладний комірець, дві кишені спереду. Тканина гарно тримає форму. Виріб застібається на кнопки.</description_ua>
+				<param name="Розмір">146</param>
+				<param name="Колір">Сірий</param>
+				<param name="Штрихкод">4823116472303</param>
+				<param name="Модель">РБ179 котон</param>
+				<param name="Стать">Унісекс</param>
+				<param name="Матеріал">Котон</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="3df9e10d-9c99-11ed-8124-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Жакет РБ179 котон, р.158 / Сірий / X00</name_ua>
+				<article>191797034</article>
+				<categoryId>cfe5b8dc-0595-11ec-8109-f4f26d0481b7</categoryId>
+				<price>714</price>
+				<stock_quantity>10</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb179(34)_10(x00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb179(34)_10(x00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Сорочка верхня котонова. Довгий рукав на кнопці, відкладний комірець, дві кишені спереду. Тканина гарно тримає форму. Виріб застібається на кнопки.</description_ua>
+				<param name="Розмір">158</param>
+				<param name="Колір">Сірий</param>
+				<param name="Штрихкод">4823116472327</param>
+				<param name="Модель">РБ179 котон</param>
+				<param name="Стать">Унісекс</param>
+				<param name="Матеріал">Котон</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="ce60b9b4-a576-11ee-812a-0c9d92ccc742" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ9 супрем, р.110 / Чорний / Y00</name_ua>
+				<article>470097010</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>582</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft009(10)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft009(10)_01(y00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft009_y00_site.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Джемпер прямого силуету. Тканина однотонна. Перед оздоблений друком. Рукав вшивний,  довгий. Горловина оброблена кантом. Склад тканини: трикотажне полотно 95% бавовна; 5% еластан.</description_ua>
+				<param name="Розмір">110</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045017993</param>
+				<param name="Модель">ФТ9 супрем</param>
+				<param name="Стать">Унісекс</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 95%, Еластан 5%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="ce60b9b8-a576-11ee-812a-0c9d92ccc742" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ9 супрем, р.116 / Чорний / Y00</name_ua>
+				<article>470097010</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>582</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft009(10)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft009(10)_01(y00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft009_y00_site.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Джемпер прямого силуету. Тканина однотонна. Перед оздоблений друком. Рукав вшивний,  довгий. Горловина оброблена кантом. Склад тканини: трикотажне полотно 95% бавовна; 5% еластан.</description_ua>
+				<param name="Розмір">116</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045018006</param>
+				<param name="Модель">ФТ9 супрем</param>
+				<param name="Стать">Унісекс</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 95%, Еластан 5%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="ce60b9c0-a576-11ee-812a-0c9d92ccc742" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ9 супрем, р.128 / Чорний / Y00</name_ua>
+				<article>470097010</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>686</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft009(10)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft009(10)_01(y00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft009_y00_site.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Джемпер прямого силуету. Тканина однотонна. Перед оздоблений друком. Рукав вшивний,  довгий. Горловина оброблена кантом. Склад тканини: трикотажне полотно 95% бавовна; 5% еластан.</description_ua>
+				<param name="Розмір">128</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045018020</param>
+				<param name="Модель">ФТ9 супрем</param>
+				<param name="Стать">Унісекс</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 95%, Еластан 5%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="ce60b9d0-a576-11ee-812a-0c9d92ccc742" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ9 супрем, р.152 / Чорний / Y00</name_ua>
+				<article>470097010</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>743</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft009(10)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft009(10)_01(y00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft009_y00_site.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Джемпер прямого силуету. Тканина однотонна. Перед оздоблений друком. Рукав вшивний,  довгий. Горловина оброблена кантом. Склад тканини: трикотажне полотно 95% бавовна; 5% еластан.</description_ua>
+				<param name="Розмір">152</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045018068</param>
+				<param name="Модель">ФТ9 супрем</param>
+				<param name="Стать">Унісекс</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 95%, Еластан 5%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="5a7cf9f1-c3fa-11ee-812a-0c9d92ccc742" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Жакет КТ318 трикотажна джинсовка, р. 86 / Синій / 800</name_ua>
+				<article>333187060</article>
+				<categoryId>2f041192-c3fa-11ee-812a-0c9d92ccc742</categoryId>
+				<price>1337</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt318(60)_01(800)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt318(60)_01(800)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt318(60)_01(800)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt318_800_site.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Жакет прямого вільного силуету. Колір синій. Рукава вшивні довгі. Застібка центральна на «блискавку». Спереду жакет оздоблений накладними кишенями з клапанами. По низу жакета і низу рукавів — манжети з резинками. Склад тканини: текстильне полотно 97% бавовна; 3% еластан.</description_ua>
+				<param name="Розмір">86</param>
+				<param name="Колір">Синій</param>
+				<param name="Штрихкод">4824045019072</param>
+				<param name="Модель">КТ318 трикотажна джинсовка</param>
+				<param name="Стать">Унісекс</param>
+				<param name="Матеріал">Трикотажна джинсовка</param>
+				<param name="Склад">Бавовна 97%, Еластан 3%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="5a7cf9f2-c3fa-11ee-812a-0c9d92ccc742" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Жакет КТ318 трикотажна джинсовка, р. 92 / Синій / 800</name_ua>
+				<article>333187060</article>
+				<categoryId>2f041192-c3fa-11ee-812a-0c9d92ccc742</categoryId>
+				<price>1337</price>
+				<stock_quantity>11</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt318(60)_01(800)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt318(60)_01(800)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt318(60)_01(800)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/kt318_800_site.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Жакет прямого вільного силуету. Колір синій. Рукава вшивні довгі. Застібка центральна на «блискавку». Спереду жакет оздоблений накладними кишенями з клапанами. По низу жакета і низу рукавів — манжети з резинками. Склад тканини: текстильне полотно 97% бавовна; 3% еластан.</description_ua>
+				<param name="Розмір">92</param>
+				<param name="Колір">Синій</param>
+				<param name="Штрихкод">4824045019089</param>
+				<param name="Модель">КТ318 трикотажна джинсовка</param>
+				<param name="Стать">Унісекс</param>
+				<param name="Матеріал">Трикотажна джинсовка</param>
+				<param name="Склад">Бавовна 97%, Еластан 3%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="468a4b10-fa7d-11ef-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР876 супрем, р. 98 / Чорний / Y00</name_ua>
+				<article>268767110</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>437</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr876(10)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr876(10)_01(y00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">98</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045055735</param>
+				<param name="Модель">ШР876 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="468a4b13-fa7d-11ef-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР876 супрем, р.104 / Чорний / Y00</name_ua>
+				<article>268767110</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>522</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr876(10)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr876(10)_01(y00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">104</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045055742</param>
+				<param name="Модель">ШР876 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="468a4b16-fa7d-11ef-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР876 супрем, р.110 / Чорний / Y00</name_ua>
+				<article>268767110</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>522</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr876(10)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr876(10)_01(y00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">110</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045055759</param>
+				<param name="Модель">ШР876 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="468a4b19-fa7d-11ef-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР876 супрем, р.116 / Чорний / Y00</name_ua>
+				<article>268767110</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>522</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr876(10)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr876(10)_01(y00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">116</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045055766</param>
+				<param name="Модель">ШР876 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="468a4b1c-fa7d-11ef-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР876 супрем, р.122 / Чорний / Y00</name_ua>
+				<article>268767110</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>522</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr876(10)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr876(10)_01(y00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">122</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045055773</param>
+				<param name="Модель">ШР876 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="468a4b1f-fa7d-11ef-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР876 супрем, р.128 / Чорний / Y00</name_ua>
+				<article>268767110</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>572</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr876(10)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr876(10)_01(y00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">128</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045055780</param>
+				<param name="Модель">ШР876 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="468a4b28-fa7d-11ef-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР876 супрем, р.146 / Чорний / Y00</name_ua>
+				<article>268767110</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>572</price>
+				<stock_quantity>8</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr876(10)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr876(10)_01(y00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">146</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045055810</param>
+				<param name="Модель">ШР876 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="468a4b2b-fa7d-11ef-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР876 супрем, р.152 / Чорний / Y00</name_ua>
+				<article>268767110</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>646</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr876(10)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr876(10)_01(y00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">152</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045055827</param>
+				<param name="Модель">ШР876 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="468a4b2e-fa7d-11ef-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР876 супрем, р.158 / Чорний / Y00</name_ua>
+				<article>268767110</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>646</price>
+				<stock_quantity>8</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr876(10)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr876(10)_01(y00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">158</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045055834</param>
+				<param name="Модель">ШР876 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="25967059-ff9c-11ef-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ27 супрем, р.152 / Бежевий, Смужка / G02</name_ua>
+				<article>470273110</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>409</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft27(10)_01(g02)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft27(10)_01(g02)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua>  Футболка прямого силуету. Рукав вшивний, короткий. Горловина оброблена коміром.  Друк на однотонному. Склад тканини: трикотажне полотно 100% бавовна.</description_ua>
+				<param name="Розмір">152</param>
+				<param name="Колір">Бежевий</param>
+				<param name="Додаткова характеристика">Смужка</param>
+				<param name="Штрихкод">4824045057289</param>
+				<param name="Модель">ФТ27 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="2596705a-ff9c-11ef-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ27 супрем, р.158 / Бежевий, Смужка / G02</name_ua>
+				<article>470273110</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>409</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft27(10)_01(g02)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft27(10)_01(g02)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua>  Футболка прямого силуету. Рукав вшивний, короткий. Горловина оброблена коміром.  Друк на однотонному. Склад тканини: трикотажне полотно 100% бавовна.</description_ua>
+				<param name="Розмір">158</param>
+				<param name="Колір">Бежевий</param>
+				<param name="Додаткова характеристика">Смужка</param>
+				<param name="Штрихкод">4824045057296</param>
+				<param name="Модель">ФТ27 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="423c9c86-057c-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Костюм літній КС815 супрем, р.122 / Білий, Чорний / 1Y0</name_ua>
+				<article>068155210</article>
+				<categoryId>128f4d0b-12c6-11ef-812f-f4f26d0481b7</categoryId>
+				<price>628</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">122</param>
+				<param name="Колір">Білий</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045066816</param>
+				<param name="Модель">КС815 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="423c9c87-057c-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Костюм літній КС815 супрем, р.122 / Св.рожевий, Чорний / 9Y0</name_ua>
+				<article>068155210</article>
+				<categoryId>128f4d0b-12c6-11ef-812f-f4f26d0481b7</categoryId>
+				<price>628</price>
+				<stock_quantity>10</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">122</param>
+				<param name="Колір">Св.рожевий</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045066885</param>
+				<param name="Модель">КС815 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="423c9c88-057c-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Костюм літній КС815 супрем, р.128 / Білий, Чорний / 1Y0</name_ua>
+				<article>068155210</article>
+				<categoryId>128f4d0b-12c6-11ef-812f-f4f26d0481b7</categoryId>
+				<price>628</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">128</param>
+				<param name="Колір">Білий</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045066823</param>
+				<param name="Модель">КС815 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="423c9c89-057c-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Костюм літній КС815 супрем, р.128 / Св.рожевий, Чорний / 9Y0</name_ua>
+				<article>068155210</article>
+				<categoryId>128f4d0b-12c6-11ef-812f-f4f26d0481b7</categoryId>
+				<price>628</price>
+				<stock_quantity>10</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">128</param>
+				<param name="Колір">Св.рожевий</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045066892</param>
+				<param name="Модель">КС815 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="423c9c8a-057c-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Костюм літній КС815 супрем, р.134 / Білий, Чорний / 1Y0</name_ua>
+				<article>068155210</article>
+				<categoryId>128f4d0b-12c6-11ef-812f-f4f26d0481b7</categoryId>
+				<price>628</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">134</param>
+				<param name="Колір">Білий</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045066830</param>
+				<param name="Модель">КС815 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="423c9c8b-057c-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Костюм літній КС815 супрем, р.134 / Св.рожевий, Чорний / 9Y0</name_ua>
+				<article>068155210</article>
+				<categoryId>128f4d0b-12c6-11ef-812f-f4f26d0481b7</categoryId>
+				<price>628</price>
+				<stock_quantity>10</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">134</param>
+				<param name="Колір">Св.рожевий</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045066908</param>
+				<param name="Модель">КС815 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="423c9c8c-057c-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Костюм літній КС815 супрем, р.140 / Білий, Чорний / 1Y0</name_ua>
+				<article>068155210</article>
+				<categoryId>128f4d0b-12c6-11ef-812f-f4f26d0481b7</categoryId>
+				<price>628</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">140</param>
+				<param name="Колір">Білий</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045066847</param>
+				<param name="Модель">КС815 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="423c9c8d-057c-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Костюм літній КС815 супрем, р.140 / Св.рожевий, Чорний / 9Y0</name_ua>
+				<article>068155210</article>
+				<categoryId>128f4d0b-12c6-11ef-812f-f4f26d0481b7</categoryId>
+				<price>628</price>
+				<stock_quantity>10</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">140</param>
+				<param name="Колір">Св.рожевий</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045066915</param>
+				<param name="Модель">КС815 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="423c9c8e-057c-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Костюм літній КС815 супрем, р.146 / Білий, Чорний / 1Y0</name_ua>
+				<article>068155210</article>
+				<categoryId>128f4d0b-12c6-11ef-812f-f4f26d0481b7</categoryId>
+				<price>628</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">146</param>
+				<param name="Колір">Білий</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045066854</param>
+				<param name="Модель">КС815 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="423c9c8f-057c-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Костюм літній КС815 супрем, р.146 / Св.рожевий, Чорний / 9Y0</name_ua>
+				<article>068155210</article>
+				<categoryId>128f4d0b-12c6-11ef-812f-f4f26d0481b7</categoryId>
+				<price>628</price>
+				<stock_quantity>9</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">146</param>
+				<param name="Колір">Св.рожевий</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045066922</param>
+				<param name="Модель">КС815 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="423c9c90-057c-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Костюм літній КС815 супрем, р.152 / Білий, Чорний / 1Y0</name_ua>
+				<article>068155210</article>
+				<categoryId>128f4d0b-12c6-11ef-812f-f4f26d0481b7</categoryId>
+				<price>666</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">152</param>
+				<param name="Колір">Білий</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045066861</param>
+				<param name="Модель">КС815 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="423c9c91-057c-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Костюм літній КС815 супрем, р.152 / Св.рожевий, Чорний / 9Y0</name_ua>
+				<article>068155210</article>
+				<categoryId>128f4d0b-12c6-11ef-812f-f4f26d0481b7</categoryId>
+				<price>666</price>
+				<stock_quantity>8</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">152</param>
+				<param name="Колір">Св.рожевий</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045066939</param>
+				<param name="Модель">КС815 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="423c9c92-057c-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Костюм літній КС815 супрем, р.158 / Білий, Чорний / 1Y0</name_ua>
+				<article>068155210</article>
+				<categoryId>128f4d0b-12c6-11ef-812f-f4f26d0481b7</categoryId>
+				<price>666</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(1y0)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">158</param>
+				<param name="Колір">Білий</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045066878</param>
+				<param name="Модель">КС815 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="423c9c93-057c-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Костюм літній КС815 супрем, р.158 / Св.рожевий, Чорний / 9Y0</name_ua>
+				<article>068155210</article>
+				<categoryId>128f4d0b-12c6-11ef-812f-f4f26d0481b7</categoryId>
+				<price>666</price>
+				<stock_quantity>10</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks815(10)_01(9y0)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">158</param>
+				<param name="Колір">Св.рожевий</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045066946</param>
+				<param name="Модель">КС815 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="74dfb6e5-0625-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Костюм літній КС830 супрем, р.104 / Блакитний, Чорний / 4Y0</name_ua>
+				<article>068303110</article>
+				<categoryId>128f4d0b-12c6-11ef-812f-f4f26d0481b7</categoryId>
+				<price>681</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(4y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(4y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(4y0)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(4y0)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(4y0)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">104</param>
+				<param name="Колір">Блакитний</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045063624</param>
+				<param name="Модель">КС830 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="74dfb6e6-0625-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Костюм літній КС830 супрем, р.104 / Бежевий, Блакитний, Смужка / G42</name_ua>
+				<article>068303110</article>
+				<categoryId>128f4d0b-12c6-11ef-812f-f4f26d0481b7</categoryId>
+				<price>681</price>
+				<stock_quantity>11</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(g42).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(g42)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(g42)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(g42)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(g42)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">104</param>
+				<param name="Колір">Бежевий</param>
+				<param name="Додатковий Колір">Блакитний</param>
+				<param name="Додаткова характеристика">Смужка</param>
+				<param name="Штрихкод">4824045063570</param>
+				<param name="Модель">КС830 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="74dfb6e8-0625-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Костюм літній КС830 супрем, р.110 / Бежевий, Блакитний, Смужка / G42</name_ua>
+				<article>068303110</article>
+				<categoryId>128f4d0b-12c6-11ef-812f-f4f26d0481b7</categoryId>
+				<price>681</price>
+				<stock_quantity>9</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(g42).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(g42)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(g42)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(g42)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(g42)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">110</param>
+				<param name="Колір">Бежевий</param>
+				<param name="Додатковий Колір">Блакитний</param>
+				<param name="Додаткова характеристика">Смужка</param>
+				<param name="Штрихкод">4824045063587</param>
+				<param name="Модель">КС830 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="74dfb6e9-0625-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Костюм літній КС830 супрем, р.116 / Блакитний, Чорний / 4Y0</name_ua>
+				<article>068303110</article>
+				<categoryId>128f4d0b-12c6-11ef-812f-f4f26d0481b7</categoryId>
+				<price>681</price>
+				<stock_quantity>8</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(4y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(4y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(4y0)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(4y0)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(4y0)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">116</param>
+				<param name="Колір">Блакитний</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045063648</param>
+				<param name="Модель">КС830 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="74dfb6ea-0625-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Костюм літній КС830 супрем, р.116 / Бежевий, Блакитний, Смужка / G42</name_ua>
+				<article>068303110</article>
+				<categoryId>128f4d0b-12c6-11ef-812f-f4f26d0481b7</categoryId>
+				<price>681</price>
+				<stock_quantity>12</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(g42).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(g42)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(g42)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(g42)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(g42)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">116</param>
+				<param name="Колір">Бежевий</param>
+				<param name="Додатковий Колір">Блакитний</param>
+				<param name="Додаткова характеристика">Смужка</param>
+				<param name="Штрихкод">4824045063594</param>
+				<param name="Модель">КС830 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="74dfb6eb-0625-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Костюм літній КС830 супрем, р.122 / Блакитний, Чорний / 4Y0</name_ua>
+				<article>068303110</article>
+				<categoryId>128f4d0b-12c6-11ef-812f-f4f26d0481b7</categoryId>
+				<price>681</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(4y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(4y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(4y0)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(4y0)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(4y0)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">122</param>
+				<param name="Колір">Блакитний</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045063655</param>
+				<param name="Модель">КС830 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="74dfb6ec-0625-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Костюм літній КС830 супрем, р.122 / Бежевий, Блакитний, Смужка / G42</name_ua>
+				<article>068303110</article>
+				<categoryId>128f4d0b-12c6-11ef-812f-f4f26d0481b7</categoryId>
+				<price>681</price>
+				<stock_quantity>14</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(g42).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(g42)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(g42)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(g42)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks830(10)_01(g42)d.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">122</param>
+				<param name="Колір">Бежевий</param>
+				<param name="Додатковий Колір">Блакитний</param>
+				<param name="Додаткова характеристика">Смужка</param>
+				<param name="Штрихкод">4824045063600</param>
+				<param name="Модель">КС830 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="816debf3-0626-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Костюм літній КС832 супрем, р. 80 / Білий, Блакитний / 140</name_ua>
+				<article>068323110</article>
+				<categoryId>128f4d0b-12c6-11ef-812f-f4f26d0481b7</categoryId>
+				<price>568</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks832(10)_01(140).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks832(10)_01(140)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks832(10)_01(140)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks832(10)_01(140)c.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks832(10)_01(140)d.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks832(10)_01(140)e.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ks832(140).jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">80</param>
+				<param name="Колір">Білий</param>
+				<param name="Додатковий Колір">Блакитний</param>
+				<param name="Штрихкод">4824045062849</param>
+				<param name="Модель">КС832 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="5f99b4c4-0628-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Напівкомбінезон ПК211 супрем фактурний, р. 68 / Молочний / 200</name_ua>
+				<article>172113229</article>
+				<categoryId>7e892408-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>434</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pk211(29)_01(200)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pk211(29)_01(200)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">68</param>
+				<param name="Колір">Молочний</param>
+				<param name="Штрихкод">4824045065673</param>
+				<param name="Модель">ПК211 супрем фактурний</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем фактурний</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="5f99b4c5-0628-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Напівкомбінезон ПК211 супрем фактурний, р. 68 / Св.рожевий / 900</name_ua>
+				<article>172113229</article>
+				<categoryId>7e892408-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>434</price>
+				<stock_quantity>9</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pk211(29)_01(900)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pk211(29)_01(900)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">68</param>
+				<param name="Колір">Св.рожевий</param>
+				<param name="Штрихкод">4824045065635</param>
+				<param name="Модель">ПК211 супрем фактурний</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем фактурний</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="5f99b4c6-0628-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Напівкомбінезон ПК211 супрем фактурний, р. 74 / Молочний / 200</name_ua>
+				<article>172113229</article>
+				<categoryId>7e892408-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>434</price>
+				<stock_quantity>8</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pk211(29)_01(200)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pk211(29)_01(200)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">74</param>
+				<param name="Колір">Молочний</param>
+				<param name="Штрихкод">4824045065680</param>
+				<param name="Модель">ПК211 супрем фактурний</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем фактурний</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="5f99b4c7-0628-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Напівкомбінезон ПК211 супрем фактурний, р. 74 / Св.рожевий / 900</name_ua>
+				<article>172113229</article>
+				<categoryId>7e892408-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>434</price>
+				<stock_quantity>10</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pk211(29)_01(900)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pk211(29)_01(900)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">74</param>
+				<param name="Колір">Св.рожевий</param>
+				<param name="Штрихкод">4824045065642</param>
+				<param name="Модель">ПК211 супрем фактурний</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем фактурний</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="5f99b4c8-0628-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Напівкомбінезон ПК211 супрем фактурний, р. 80 / Молочний / 200</name_ua>
+				<article>172113229</article>
+				<categoryId>7e892408-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>434</price>
+				<stock_quantity>8</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pk211(29)_01(200)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pk211(29)_01(200)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">80</param>
+				<param name="Колір">Молочний</param>
+				<param name="Штрихкод">4824045065697</param>
+				<param name="Модель">ПК211 супрем фактурний</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем фактурний</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="5f99b4c9-0628-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Напівкомбінезон ПК211 супрем фактурний, р. 80 / Св.рожевий / 900</name_ua>
+				<article>172113229</article>
+				<categoryId>7e892408-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>434</price>
+				<stock_quantity>8</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pk211(29)_01(900)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pk211(29)_01(900)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">80</param>
+				<param name="Колір">Св.рожевий</param>
+				<param name="Штрихкод">4824045065659</param>
+				<param name="Модель">ПК211 супрем фактурний</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем фактурний</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="5f99b4ca-0628-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Напівкомбінезон ПК211 супрем фактурний, р. 86 / Молочний / 200</name_ua>
+				<article>172113229</article>
+				<categoryId>7e892408-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>434</price>
+				<stock_quantity>10</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pk211(29)_01(200)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pk211(29)_01(200)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">86</param>
+				<param name="Колір">Молочний</param>
+				<param name="Штрихкод">4824045065703</param>
+				<param name="Модель">ПК211 супрем фактурний</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем фактурний</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="5f99b4cb-0628-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Напівкомбінезон ПК211 супрем фактурний, р. 86 / Св.рожевий / 900</name_ua>
+				<article>172113229</article>
+				<categoryId>7e892408-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>434</price>
+				<stock_quantity>9</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pk211(29)_01(900)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pk211(29)_01(900)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">86</param>
+				<param name="Колір">Св.рожевий</param>
+				<param name="Штрихкод">4824045065666</param>
+				<param name="Модель">ПК211 супрем фактурний</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем фактурний</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="0cf050a1-0bed-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сукня ПЛ401 супрем, р. 74 / Молочний / 200</name_ua>
+				<article>144013210</article>
+				<categoryId>7e892405-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>616</price>
+				<stock_quantity>10</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl401(10)_01(200)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl401(10)_01(200)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">74</param>
+				<param name="Колір">Молочний</param>
+				<param name="Штрихкод">4824045062894</param>
+				<param name="Модель">ПЛ401 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="13ff42c3-0f4b-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сукня ПЛ401 супрем, р. 74 / Св.рожевий / 900</name_ua>
+				<article>144013210</article>
+				<categoryId>7e892405-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>616</price>
+				<stock_quantity>10</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl401(10)_01(900)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl401(10)_01(900)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">74</param>
+				<param name="Колір">Св.рожевий</param>
+				<param name="Штрихкод">4824045062948</param>
+				<param name="Модель">ПЛ401 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="0cf050a2-0bed-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сукня ПЛ401 супрем, р. 80 / Молочний / 200</name_ua>
+				<article>144013210</article>
+				<categoryId>7e892405-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>616</price>
+				<stock_quantity>9</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl401(10)_01(200)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl401(10)_01(200)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">80</param>
+				<param name="Колір">Молочний</param>
+				<param name="Штрихкод">4824045062900</param>
+				<param name="Модель">ПЛ401 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="13ff42c4-0f4b-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сукня ПЛ401 супрем, р. 80 / Св.рожевий / 900</name_ua>
+				<article>144013210</article>
+				<categoryId>7e892405-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>616</price>
+				<stock_quantity>9</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl401(10)_01(900)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl401(10)_01(900)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">80</param>
+				<param name="Колір">Св.рожевий</param>
+				<param name="Штрихкод">4824045062955</param>
+				<param name="Модель">ПЛ401 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="0cf050a3-0bed-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сукня ПЛ401 супрем, р. 86 / Молочний / 200</name_ua>
+				<article>144013210</article>
+				<categoryId>7e892405-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>616</price>
+				<stock_quantity>9</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl401(10)_01(200)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl401(10)_01(200)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">86</param>
+				<param name="Колір">Молочний</param>
+				<param name="Штрихкод">4824045062917</param>
+				<param name="Модель">ПЛ401 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="13ff42c5-0f4b-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сукня ПЛ401 супрем, р. 86 / Св.рожевий / 900</name_ua>
+				<article>144013210</article>
+				<categoryId>7e892405-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>616</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl401(10)_01(900)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl401(10)_01(900)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">86</param>
+				<param name="Колір">Св.рожевий</param>
+				<param name="Штрихкод">4824045062962</param>
+				<param name="Модель">ПЛ401 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="0cf050a4-0bed-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сукня ПЛ401 супрем, р. 92 / Молочний / 200</name_ua>
+				<article>144013210</article>
+				<categoryId>7e892405-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>616</price>
+				<stock_quantity>10</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl401(10)_01(200)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl401(10)_01(200)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">92</param>
+				<param name="Колір">Молочний</param>
+				<param name="Штрихкод">4824045062924</param>
+				<param name="Модель">ПЛ401 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="13ff42c6-0f4b-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сукня ПЛ401 супрем, р. 92 / Св.рожевий / 900</name_ua>
+				<article>144013210</article>
+				<categoryId>7e892405-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>616</price>
+				<stock_quantity>8</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl401(10)_01(900)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl401(10)_01(900)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">92</param>
+				<param name="Колір">Св.рожевий</param>
+				<param name="Штрихкод">4824045062979</param>
+				<param name="Модель">ПЛ401 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="0cf050a5-0bed-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сукня ПЛ401 супрем, р. 98 / Молочний / 200</name_ua>
+				<article>144013210</article>
+				<categoryId>7e892405-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>616</price>
+				<stock_quantity>8</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl401(10)_01(200)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl401(10)_01(200)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">98</param>
+				<param name="Колір">Молочний</param>
+				<param name="Штрихкод">4824045062931</param>
+				<param name="Модель">ПЛ401 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="13ff42c7-0f4b-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сукня ПЛ401 супрем, р. 98 / Св.рожевий / 900</name_ua>
+				<article>144013210</article>
+				<categoryId>7e892405-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>616</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl401(10)_01(900)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/pl401(10)_01(900)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">98</param>
+				<param name="Колір">Св.рожевий</param>
+				<param name="Штрихкод">4824045062986</param>
+				<param name="Модель">ПЛ401 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e61b678d-062a-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сорочка верхня РБ202 котон-фактурний, р. 98 / Св.сірий / W00</name_ua>
+				<article>192027177</article>
+				<categoryId>9731d87b-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>947</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)c.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">98</param>
+				<param name="Колір">Св.сірий</param>
+				<param name="Штрихкод">4824045066328</param>
+				<param name="Модель">РБ202 котон-фактурний</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Котон-фактурний</param>
+				<param name="Склад">Бавовна 97%, Еластан 3%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e61b678e-062a-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сорочка верхня РБ202 котон-фактурний, р.104 / М`ятний, Сірий / UX0</name_ua>
+				<article>192027177</article>
+				<categoryId>9731d87b-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>947</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(ux0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(ux0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(ux0)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">104</param>
+				<param name="Колір">М`ятний</param>
+				<param name="Додатковий Колір">Сірий</param>
+				<param name="Штрихкод">4824045066441</param>
+				<param name="Модель">РБ202 котон-фактурний</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Котон-фактурний</param>
+				<param name="Склад">Бавовна 97%, Еластан 3%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e61b678f-062a-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сорочка верхня РБ202 котон-фактурний, р.104 / Св.сірий / W00</name_ua>
+				<article>192027177</article>
+				<categoryId>9731d87b-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>947</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)c.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">104</param>
+				<param name="Колір">Св.сірий</param>
+				<param name="Штрихкод">4824045066335</param>
+				<param name="Модель">РБ202 котон-фактурний</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Котон-фактурний</param>
+				<param name="Склад">Бавовна 97%, Еластан 3%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e61b6791-062a-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сорочка верхня РБ202 котон-фактурний, р.110 / Св.сірий / W00</name_ua>
+				<article>192027177</article>
+				<categoryId>9731d87b-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>947</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)c.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">110</param>
+				<param name="Колір">Св.сірий</param>
+				<param name="Штрихкод">4824045066342</param>
+				<param name="Модель">РБ202 котон-фактурний</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Котон-фактурний</param>
+				<param name="Склад">Бавовна 97%, Еластан 3%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e61b6792-062a-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сорочка верхня РБ202 котон-фактурний, р.116 / М`ятний, Сірий / UX0</name_ua>
+				<article>192027177</article>
+				<categoryId>9731d87b-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>947</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(ux0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(ux0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(ux0)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">116</param>
+				<param name="Колір">М`ятний</param>
+				<param name="Додатковий Колір">Сірий</param>
+				<param name="Штрихкод">4824045066465</param>
+				<param name="Модель">РБ202 котон-фактурний</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Котон-фактурний</param>
+				<param name="Склад">Бавовна 97%, Еластан 3%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e61b6793-062a-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сорочка верхня РБ202 котон-фактурний, р.116 / Св.сірий / W00</name_ua>
+				<article>192027177</article>
+				<categoryId>9731d87b-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>947</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)c.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">116</param>
+				<param name="Колір">Св.сірий</param>
+				<param name="Штрихкод">4824045066359</param>
+				<param name="Модель">РБ202 котон-фактурний</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Котон-фактурний</param>
+				<param name="Склад">Бавовна 97%, Еластан 3%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e61b6795-062a-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сорочка верхня РБ202 котон-фактурний, р.122 / Св.сірий / W00</name_ua>
+				<article>192027177</article>
+				<categoryId>9731d87b-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>947</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)c.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">122</param>
+				<param name="Колір">Св.сірий</param>
+				<param name="Штрихкод">4824045066366</param>
+				<param name="Модель">РБ202 котон-фактурний</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Котон-фактурний</param>
+				<param name="Склад">Бавовна 97%, Еластан 3%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e61b6796-062a-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сорочка верхня РБ202 котон-фактурний, р.128 / М`ятний, Сірий / UX0</name_ua>
+				<article>192027177</article>
+				<categoryId>9731d87b-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>1043</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(ux0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(ux0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(ux0)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">128</param>
+				<param name="Колір">М`ятний</param>
+				<param name="Додатковий Колір">Сірий</param>
+				<param name="Штрихкод">4824045066489</param>
+				<param name="Модель">РБ202 котон-фактурний</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Котон-фактурний</param>
+				<param name="Склад">Бавовна 97%, Еластан 3%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e61b6797-062a-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сорочка верхня РБ202 котон-фактурний, р.128 / Св.сірий / W00</name_ua>
+				<article>192027177</article>
+				<categoryId>9731d87b-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>1043</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)c.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">128</param>
+				<param name="Колір">Св.сірий</param>
+				<param name="Штрихкод">4824045066373</param>
+				<param name="Модель">РБ202 котон-фактурний</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Котон-фактурний</param>
+				<param name="Склад">Бавовна 97%, Еластан 3%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e61b6798-062a-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сорочка верхня РБ202 котон-фактурний, р.134 / М`ятний, Сірий / UX0</name_ua>
+				<article>192027177</article>
+				<categoryId>9731d87b-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>1043</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(ux0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(ux0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(ux0)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">134</param>
+				<param name="Колір">М`ятний</param>
+				<param name="Додатковий Колір">Сірий</param>
+				<param name="Штрихкод">4824045066496</param>
+				<param name="Модель">РБ202 котон-фактурний</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Котон-фактурний</param>
+				<param name="Склад">Бавовна 97%, Еластан 3%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e61b6799-062a-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сорочка верхня РБ202 котон-фактурний, р.134 / Св.сірий / W00</name_ua>
+				<article>192027177</article>
+				<categoryId>9731d87b-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>1043</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)c.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">134</param>
+				<param name="Колір">Св.сірий</param>
+				<param name="Штрихкод">4824045066380</param>
+				<param name="Модель">РБ202 котон-фактурний</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Котон-фактурний</param>
+				<param name="Склад">Бавовна 97%, Еластан 3%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e61b679a-062a-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сорочка верхня РБ202 котон-фактурний, р.140 / М`ятний, Сірий / UX0</name_ua>
+				<article>192027177</article>
+				<categoryId>9731d87b-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>1043</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(ux0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(ux0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(ux0)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">140</param>
+				<param name="Колір">М`ятний</param>
+				<param name="Додатковий Колір">Сірий</param>
+				<param name="Штрихкод">4824045066502</param>
+				<param name="Модель">РБ202 котон-фактурний</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Котон-фактурний</param>
+				<param name="Склад">Бавовна 97%, Еластан 3%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e61b679b-062a-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сорочка верхня РБ202 котон-фактурний, р.140 / Св.сірий / W00</name_ua>
+				<article>192027177</article>
+				<categoryId>9731d87b-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>1043</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)c.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">140</param>
+				<param name="Колір">Св.сірий</param>
+				<param name="Штрихкод">4824045066397</param>
+				<param name="Модель">РБ202 котон-фактурний</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Котон-фактурний</param>
+				<param name="Склад">Бавовна 97%, Еластан 3%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e61b679c-062a-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сорочка верхня РБ202 котон-фактурний, р.146 / М`ятний, Сірий / UX0</name_ua>
+				<article>192027177</article>
+				<categoryId>9731d87b-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>1043</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(ux0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(ux0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(ux0)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">146</param>
+				<param name="Колір">М`ятний</param>
+				<param name="Додатковий Колір">Сірий</param>
+				<param name="Штрихкод">4824045066519</param>
+				<param name="Модель">РБ202 котон-фактурний</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Котон-фактурний</param>
+				<param name="Склад">Бавовна 97%, Еластан 3%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e61b679d-062a-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сорочка верхня РБ202 котон-фактурний, р.146 / Св.сірий / W00</name_ua>
+				<article>192027177</article>
+				<categoryId>9731d87b-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>1043</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)c.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">146</param>
+				<param name="Колір">Св.сірий</param>
+				<param name="Штрихкод">4824045066403</param>
+				<param name="Модель">РБ202 котон-фактурний</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Котон-фактурний</param>
+				<param name="Склад">Бавовна 97%, Еластан 3%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e61b679f-062a-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сорочка верхня РБ202 котон-фактурний, р.152 / Св.сірий / W00</name_ua>
+				<article>192027177</article>
+				<categoryId>9731d87b-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>1096</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)c.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">152</param>
+				<param name="Колір">Св.сірий</param>
+				<param name="Штрихкод">4824045066410</param>
+				<param name="Модель">РБ202 котон-фактурний</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Котон-фактурний</param>
+				<param name="Склад">Бавовна 97%, Еластан 3%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e61b67a1-062a-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Сорочка верхня РБ202 котон-фактурний, р.158 / Св.сірий / W00</name_ua>
+				<article>192027177</article>
+				<categoryId>9731d87b-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>1096</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)b.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/rb202(77)_01(w00)c.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">158</param>
+				<param name="Колір">Св.сірий</param>
+				<param name="Штрихкод">4824045066427</param>
+				<param name="Модель">РБ202 котон-фактурний</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Котон-фактурний</param>
+				<param name="Склад">Бавовна 97%, Еластан 3%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="74218e1c-0631-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ26 супрем, р.134 / Молочний / 200</name_ua>
+				<article>470265110</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>352</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft26(10)_01(200)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft26(10)_01(200)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">134</param>
+				<param name="Колір">Молочний</param>
+				<param name="Штрихкод">4824045063280</param>
+				<param name="Модель">ФТ26 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="74218e1e-0631-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ26 супрем, р.140 / Молочний / 200</name_ua>
+				<article>470265110</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>352</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft26(10)_01(200)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft26(10)_01(200)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">140</param>
+				<param name="Колір">Молочний</param>
+				<param name="Штрихкод">4824045063297</param>
+				<param name="Модель">ФТ26 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="74218e20-0631-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ26 супрем, р.146 / Молочний / 200</name_ua>
+				<article>470265110</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>352</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft26(10)_01(200)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft26(10)_01(200)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">146</param>
+				<param name="Колір">Молочний</param>
+				<param name="Штрихкод">4824045063303</param>
+				<param name="Модель">ФТ26 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="74218e22-0631-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ26 супрем, р.152 / Молочний / 200</name_ua>
+				<article>470265110</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>377</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft26(10)_01(200)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft26(10)_01(200)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">152</param>
+				<param name="Колір">Молочний</param>
+				<param name="Штрихкод">4824045063310</param>
+				<param name="Модель">ФТ26 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="74218e24-0631-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ26 супрем, р.158 / Молочний / 200</name_ua>
+				<article>470265110</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>377</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft26(10)_01(200)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft26(10)_01(200)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">158</param>
+				<param name="Колір">Молочний</param>
+				<param name="Штрихкод">4824045063327</param>
+				<param name="Модель">ФТ26 супрем</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="1ad96f31-0634-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ36 супрем, р.104 / Білий / 100</name_ua>
+				<article>470365210</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>281</price>
+				<stock_quantity>9</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft36(10)_01(100)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft36(10)_01(100)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">104</param>
+				<param name="Колір">Білий</param>
+				<param name="Штрихкод">4824045061668</param>
+				<param name="Модель">ФТ36 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="1ad96f3d-0634-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ36 супрем, р.122 / Білий / 100</name_ua>
+				<article>470365210</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>281</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft36(10)_01(100)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft36(10)_01(100)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">122</param>
+				<param name="Колір">Білий</param>
+				<param name="Штрихкод">4824045061699</param>
+				<param name="Модель">ФТ36 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="1ad96f41-0634-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ36 супрем, р.128 / Білий / 100</name_ua>
+				<article>470365210</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>356</price>
+				<stock_quantity>11</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft36(10)_01(100)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft36(10)_01(100)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">128</param>
+				<param name="Колір">Білий</param>
+				<param name="Штрихкод">4824045061705</param>
+				<param name="Модель">ФТ36 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="1ad96f4e-0634-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ36 супрем, р.146 / Св.рожевий / 900</name_ua>
+				<article>470365210</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>356</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft36(10)_01(900)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft36(10)_01(900)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">146</param>
+				<param name="Колір">Св.рожевий</param>
+				<param name="Штрихкод">4824045061538</param>
+				<param name="Модель">ФТ36 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="1ad96f52-0634-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ36 супрем, р.152 / Св.рожевий / 900</name_ua>
+				<article>470365210</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>377</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft36(10)_01(900)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft36(10)_01(900)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">152</param>
+				<param name="Колір">Св.рожевий</param>
+				<param name="Штрихкод">4824045061545</param>
+				<param name="Модель">ФТ36 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="1ad96f56-0634-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ36 супрем, р.158 / Св.рожевий / 900</name_ua>
+				<article>470365210</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>377</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft36(10)_01(900)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft36(10)_01(900)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">158</param>
+				<param name="Колір">Св.рожевий</param>
+				<param name="Штрихкод">4824045061552</param>
+				<param name="Модель">ФТ36 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a5353d36-0634-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ37 супрем, р.104 / Білий, Чорний / 1Y0</name_ua>
+				<article>470373210</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>255</price>
+				<stock_quantity>10</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">104</param>
+				<param name="Колір">Білий</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045061965</param>
+				<param name="Модель">ФТ37 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a5353d39-0634-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ37 супрем, р.110 / Білий, Чорний / 1Y0</name_ua>
+				<article>470373210</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>255</price>
+				<stock_quantity>8</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">110</param>
+				<param name="Колір">Білий</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045061972</param>
+				<param name="Модель">ФТ37 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a5353d3c-0634-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ37 супрем, р.116 / Білий, Чорний / 1Y0</name_ua>
+				<article>470373210</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>255</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">116</param>
+				<param name="Колір">Білий</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045061989</param>
+				<param name="Модель">ФТ37 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a5353d3f-0634-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ37 супрем, р.122 / Білий, Чорний / 1Y0</name_ua>
+				<article>470373210</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>255</price>
+				<stock_quantity>8</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">122</param>
+				<param name="Колір">Білий</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045061996</param>
+				<param name="Модель">ФТ37 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a5353d42-0634-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ37 супрем, р.128 / Білий, Чорний / 1Y0</name_ua>
+				<article>470373210</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>276</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">128</param>
+				<param name="Колір">Білий</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045062009</param>
+				<param name="Модель">ФТ37 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a5353d49-0634-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ37 супрем, р.146 / Білий, Св.рожевий / 190</name_ua>
+				<article>470373210</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>276</price>
+				<stock_quantity>14</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(190)1a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(190)1b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">146</param>
+				<param name="Колір">Білий</param>
+				<param name="Додатковий Колір">Св.рожевий</param>
+				<param name="Штрихкод">4824045061934</param>
+				<param name="Модель">ФТ37 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a5353d4b-0634-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ37 супрем, р.146 / Білий, Чорний / 1Y0</name_ua>
+				<article>470373210</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>276</price>
+				<stock_quantity>22</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">146</param>
+				<param name="Колір">Білий</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045062030</param>
+				<param name="Модель">ФТ37 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a5353d4c-0634-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ37 супрем, р.152 / Білий, Св.рожевий / 190</name_ua>
+				<article>470373210</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>290</price>
+				<stock_quantity>19</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(190)1a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(190)1b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">152</param>
+				<param name="Колір">Білий</param>
+				<param name="Додатковий Колір">Св.рожевий</param>
+				<param name="Штрихкод">4824045061941</param>
+				<param name="Модель">ФТ37 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a5353d4e-0634-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ37 супрем, р.152 / Білий, Чорний / 1Y0</name_ua>
+				<article>470373210</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>290</price>
+				<stock_quantity>19</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">152</param>
+				<param name="Колір">Білий</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045062047</param>
+				<param name="Модель">ФТ37 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a5353d4f-0634-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ37 супрем, р.158 / Білий, Св.рожевий / 190</name_ua>
+				<article>470373210</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>290</price>
+				<stock_quantity>20</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(190)1a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(190)1b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">158</param>
+				<param name="Колір">Білий</param>
+				<param name="Додатковий Колір">Св.рожевий</param>
+				<param name="Штрихкод">4824045061958</param>
+				<param name="Модель">ФТ37 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="a5353d51-0634-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Фуфайка ФТ37 супрем, р.158 / Білий, Чорний / 1Y0</name_ua>
+				<article>470373210</article>
+				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
+				<price>290</price>
+				<stock_quantity>15</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0).jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/ft37(10)_01(1y0)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">158</param>
+				<param name="Колір">Білий</param>
+				<param name="Додатковий Колір">Чорний</param>
+				<param name="Штрихкод">4824045062054</param>
+				<param name="Модель">ФТ37 супрем</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Супрем</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e3af1b2a-0637-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР856 трикотаж двунитка, р. 98 / Синій / 800</name_ua>
+				<article>268565165</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>475</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(800)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(800)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">98</param>
+				<param name="Колір">Синій</param>
+				<param name="Штрихкод">4824045064522</param>
+				<param name="Модель">ШР856 трикотаж двунитка</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Трикотаж двунитка</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e3af1b2b-0637-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР856 трикотаж двунитка, р. 98 / Чорний / Y00</name_ua>
+				<article>268565165</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>475</price>
+				<stock_quantity>10</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(y00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">98</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045064416</param>
+				<param name="Модель">ШР856 трикотаж двунитка</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Трикотаж двунитка</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e3af1b2c-0637-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР856 трикотаж двунитка, р.104 / Синій / 800</name_ua>
+				<article>268565165</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>475</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(800)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(800)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">104</param>
+				<param name="Колір">Синій</param>
+				<param name="Штрихкод">4824045064539</param>
+				<param name="Модель">ШР856 трикотаж двунитка</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Трикотаж двунитка</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e3af1b2d-0637-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР856 трикотаж двунитка, р.104 / Чорний / Y00</name_ua>
+				<article>268565165</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>475</price>
+				<stock_quantity>12</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(y00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">104</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045064423</param>
+				<param name="Модель">ШР856 трикотаж двунитка</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Трикотаж двунитка</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e3af1b2f-0637-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР856 трикотаж двунитка, р.110 / Чорний / Y00</name_ua>
+				<article>268565165</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>475</price>
+				<stock_quantity>11</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(y00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">110</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045064430</param>
+				<param name="Модель">ШР856 трикотаж двунитка</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Трикотаж двунитка</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e3af1b30-0637-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР856 трикотаж двунитка, р.116 / Синій / 800</name_ua>
+				<article>268565165</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>475</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(800)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(800)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">116</param>
+				<param name="Колір">Синій</param>
+				<param name="Штрихкод">4824045064553</param>
+				<param name="Модель">ШР856 трикотаж двунитка</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Трикотаж двунитка</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e3af1b31-0637-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР856 трикотаж двунитка, р.116 / Чорний / Y00</name_ua>
+				<article>268565165</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>475</price>
+				<stock_quantity>12</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(y00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">116</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045064447</param>
+				<param name="Модель">ШР856 трикотаж двунитка</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Трикотаж двунитка</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e3af1b33-0637-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР856 трикотаж двунитка, р.122 / Чорний / Y00</name_ua>
+				<article>268565165</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>475</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(y00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">122</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045064454</param>
+				<param name="Модель">ШР856 трикотаж двунитка</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Трикотаж двунитка</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e3af1b35-0637-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР856 трикотаж двунитка, р.128 / Чорний / Y00</name_ua>
+				<article>268565165</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>516</price>
+				<stock_quantity>11</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(y00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">128</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045064461</param>
+				<param name="Модель">ШР856 трикотаж двунитка</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Трикотаж двунитка</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e3af1b36-0637-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР856 трикотаж двунитка, р.134 / Синій / 800</name_ua>
+				<article>268565165</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>516</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(800)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(800)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">134</param>
+				<param name="Колір">Синій</param>
+				<param name="Штрихкод">4824045064584</param>
+				<param name="Модель">ШР856 трикотаж двунитка</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Трикотаж двунитка</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e3af1b37-0637-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР856 трикотаж двунитка, р.134 / Чорний / Y00</name_ua>
+				<article>268565165</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>516</price>
+				<stock_quantity>9</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(y00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">134</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045064478</param>
+				<param name="Модель">ШР856 трикотаж двунитка</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Трикотаж двунитка</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e3af1b38-0637-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР856 трикотаж двунитка, р.140 / Синій / 800</name_ua>
+				<article>268565165</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>516</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(800)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(800)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">140</param>
+				<param name="Колір">Синій</param>
+				<param name="Штрихкод">4824045064591</param>
+				<param name="Модель">ШР856 трикотаж двунитка</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Трикотаж двунитка</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e3af1b39-0637-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР856 трикотаж двунитка, р.140 / Чорний / Y00</name_ua>
+				<article>268565165</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>516</price>
+				<stock_quantity>9</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(y00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">140</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045064485</param>
+				<param name="Модель">ШР856 трикотаж двунитка</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Трикотаж двунитка</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e3af1b3a-0637-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР856 трикотаж двунитка, р.146 / Синій / 800</name_ua>
+				<article>268565165</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>516</price>
+				<stock_quantity>6</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(800)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(800)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">146</param>
+				<param name="Колір">Синій</param>
+				<param name="Штрихкод">4824045064607</param>
+				<param name="Модель">ШР856 трикотаж двунитка</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Трикотаж двунитка</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e3af1b3b-0637-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР856 трикотаж двунитка, р.146 / Чорний / Y00</name_ua>
+				<article>268565165</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>516</price>
+				<stock_quantity>12</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(y00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">146</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045064492</param>
+				<param name="Модель">ШР856 трикотаж двунитка</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Трикотаж двунитка</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e3af1b3d-0637-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР856 трикотаж двунитка, р.152 / Чорний / Y00</name_ua>
+				<article>268565165</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>550</price>
+				<stock_quantity>12</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(y00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">152</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045064508</param>
+				<param name="Модель">ШР856 трикотаж двунитка</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Трикотаж двунитка</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e3af1b3e-0637-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР856 трикотаж двунитка, р.158 / Синій / 800</name_ua>
+				<article>268565165</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>550</price>
+				<stock_quantity>5</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(800)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(800)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">158</param>
+				<param name="Колір">Синій</param>
+				<param name="Штрихкод">4824045064621</param>
+				<param name="Модель">ШР856 трикотаж двунитка</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Трикотаж двунитка</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="e3af1b3f-0637-11f0-8157-f4f26d0481b7" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Штани ШР856 трикотаж двунитка, р.158 / Чорний / Y00</name_ua>
+				<article>268565165</article>
+				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
+				<price>550</price>
+				<stock_quantity>11</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(y00)a.jpg</picture>
+				<picture>https://bembi.ua/image/catalog/products_photo/shr856(65)_01(y00)b.jpg</picture>
+				<vendor>Бембі</vendor>
+				<param name="Розмір">158</param>
+				<param name="Колір">Чорний</param>
+				<param name="Штрихкод">4824045064515</param>
+				<param name="Модель">ШР856 трикотаж двунитка</param>
+				<param name="Стать">Хлопчик</param>
+				<param name="Матеріал">Трикотаж двунитка</param>
+				<param name="Склад">Бавовна 100%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="26c80a4a-c55d-11ea-a0d2-0021918bb249" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Спідниця ЮБ106 трикотаж тринитка, р.140 / Синій, Малюнок / 801</name_ua>
+				<article>361060266</article>
+				<categoryId>7e89241b-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>125</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ub106(66)_03(801)a.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Спідниця з трикотажу тринитка розширеного силуету з широкою резинкою з люрексом</description_ua>
+				<param name="Розмір">140</param>
+				<param name="Колір">Синій</param>
+				<param name="Додаткова характеристика">Малюнок</param>
+				<param name="Штрихкод">4823109620193</param>
+				<param name="Модель">ЮБ106 трикотаж тринитка</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Трикотаж тринитка</param>
+				<param name="Склад">Бавовна 70%, Поліестер 30%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+			<offer id="26c80a4d-c55d-11ea-a0d2-0021918bb249" available="true">
+				<currencyId>UAH</currencyId>
+				<name_ua>Спідниця ЮБ106 трикотаж тринитка, р.146 / Синій, Малюнок / 801</name_ua>
+				<article>361060266</article>
+				<categoryId>7e89241b-d425-11e7-9bd7-f079598fae65</categoryId>
+				<price>125</price>
+				<stock_quantity>7</stock_quantity>
+				<picture>https://bembi.ua/image/catalog/products_photo/ub106(66)_03(801)a.jpg</picture>
+				<vendor>Бембі</vendor>
+				<description_ua> Спідниця з трикотажу тринитка розширеного силуету з широкою резинкою з люрексом</description_ua>
+				<param name="Розмір">146</param>
+				<param name="Колір">Синій</param>
+				<param name="Додаткова характеристика">Малюнок</param>
+				<param name="Штрихкод">4823109620209</param>
+				<param name="Модель">ЮБ106 трикотаж тринитка</param>
+				<param name="Стать">Дівчинка</param>
+				<param name="Матеріал">Трикотаж тринитка</param>
+				<param name="Склад">Бавовна 70%, Поліестер 30%</param>
+				<param name="Країна виробник">Україна</param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
