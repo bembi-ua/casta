@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="11.09.2025 7:49:44">
+<yml_catalog date="22.09.2025 8:12:36">
 	<shop>
 		<name>Kasta</name>
 		<currencies>
@@ -812,7 +812,7 @@
 				<article>268295210</article>
 				<categoryId>7e892411-d425-11e7-9bd7-f079598fae65</categoryId>
 				<price>403</price>
-				<stock_quantity>16</stock_quantity>
+				<stock_quantity>15</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/shr829(10)_01(900)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/shr829(10)_01(900)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -1592,13 +1592,13 @@
 				<param name="Склад">Бавовна 60%, Поліестер 40%</param>
 				<param name="Країна виробник">Україна</param>
 			</offer>
-			<offer id="4d2e9caa-dc1e-11ec-810e-0c9d92ccc742" available="true">
+			<offer id="4d2e9caa-dc1e-11ec-810e-0c9d92ccc742" available="false">
 				<currencyId>UAH</currencyId>
 				<name_ua>Штани ШР750 трикотаж, р. 80 / Теракот / F00</name_ua>
 				<article>267507022</article>
 				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>208</price>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/shr750(22)_01(f00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/shr750(22)_01(f00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -1962,7 +1962,7 @@
 				<article>353324222</article>
 				<categoryId>9731d899-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>208</price>
-				<stock_quantity>16</stock_quantity>
+				<stock_quantity>15</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/dj332(22)_01(r01)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/dj332(22)_01(r01)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -2144,7 +2144,7 @@
 				<article>249227211</article>
 				<categoryId>9731d85d-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>245</price>
-				<stock_quantity>9</stock_quantity>
+				<stock_quantity>8</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/fb922(11)_01(i00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/fb922(11)_01(i00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -2226,7 +2226,7 @@
 				<article>067507222</article>
 				<categoryId>4d458f06-110f-11ef-812f-f4f26d0481b7</categoryId>
 				<price>1024</price>
-				<stock_quantity>9</stock_quantity>
+				<stock_quantity>7</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/ks750(22)_01(200).jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/ks750(22)_01(200)_1.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/ks750(22)_01(200)a.jpg</picture>
@@ -2375,7 +2375,7 @@
 				<article>268305224</article>
 				<categoryId>7e892411-d425-11e7-9bd7-f079598fae65</categoryId>
 				<price>688</price>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>4</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/shr830(24)_01(400)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/shr830(24)_01(400)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -2605,7 +2605,7 @@
 				<article>353294122</article>
 				<categoryId>9731d899-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>320</price>
-				<stock_quantity>6</stock_quantity>
+				<stock_quantity>4</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/dj329(22)_01(y00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/dj329(22)_01(y00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -2733,7 +2733,7 @@
 				<article>067507222</article>
 				<categoryId>4d458f06-110f-11ef-812f-f4f26d0481b7</categoryId>
 				<price>1200</price>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/ks750(22)_01(200).jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/ks750(22)_01(200)_1.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/ks750(22)_01(200)a.jpg</picture>
@@ -3404,7 +3404,7 @@
 				<article>267857122</article>
 				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>328</price>
-				<stock_quantity>3</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/shr785(22)_01(mx0)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/shr785(22)_01(mx0)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -3960,13 +3960,13 @@
 				<param name="Склад">Бавовна 100%</param>
 				<param name="Країна виробник">Україна</param>
 			</offer>
-			<offer id="a9be5112-10e9-11ee-8129-0c9d92ccc742" available="true">
+			<offer id="a9be5112-10e9-11ee-8129-0c9d92ccc742" available="false">
 				<currencyId>UAH</currencyId>
 				<name_ua>Штани ШР801 трикотаж, р.152 / Бірюзовий / R00</name_ua>
 				<article>268017222</article>
 				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>640</price>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/shr801(22)_01(r00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/shr801(22)_01(r00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -4399,7 +4399,7 @@
 				<article>470097010</article>
 				<categoryId>a10b433b-892e-11ee-812a-0c9d92ccc742</categoryId>
 				<price>599</price>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>4</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/ft009(10)_01(y00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/ft009(10)_01(y00)b.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/ft009_y00_site.jpg</picture>
@@ -5411,13 +5411,13 @@
 				<param name="Склад">Бавовна 60%, Поліестер 40%</param>
 				<param name="Країна виробник">Україна</param>
 			</offer>
-			<offer id="023e810d-2621-11ee-8129-0c9d92ccc742" available="true">
+			<offer id="023e810d-2621-11ee-8129-0c9d92ccc742" available="false">
 				<currencyId>UAH</currencyId>
 				<name_ua>Костюм спортивний КС750 трикотаж, р.110 / Молочний / 200</name_ua>
 				<article>067507222</article>
 				<categoryId>4d458f06-110f-11ef-812f-f4f26d0481b7</categoryId>
 				<price>1024</price>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/ks750(22)_01(200).jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/ks750(22)_01(200)_1.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/ks750(22)_01(200)a.jpg</picture>
@@ -6144,7 +6144,7 @@
 				<article>353294122</article>
 				<categoryId>9731d899-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>352</price>
-				<stock_quantity>3</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/dj329(22)_01(y00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/dj329(22)_01(y00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -6263,7 +6263,7 @@
 				<article>353294122</article>
 				<categoryId>9731d899-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>320</price>
-				<stock_quantity>6</stock_quantity>
+				<stock_quantity>4</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/dj329(22)_01(y00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/dj329(22)_01(y00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -6748,13 +6748,13 @@
 				<param name="Склад">Бавовна 85%, Поліестер 15%</param>
 				<param name="Країна виробник">Україна</param>
 			</offer>
-			<offer id="a9be510a-10e9-11ee-8129-0c9d92ccc742" available="true">
+			<offer id="a9be510a-10e9-11ee-8129-0c9d92ccc742" available="false">
 				<currencyId>UAH</currencyId>
 				<name_ua>Штани ШР801 трикотаж, р.140 / Бірюзовий / R00</name_ua>
 				<article>268017222</article>
 				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>584</price>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/shr801(22)_01(r00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/shr801(22)_01(r00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -6938,7 +6938,7 @@
 				<article>250940016</article>
 				<categoryId>7e892410-d425-11e7-9bd7-f079598fae65</categoryId>
 				<price>116</price>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/shp94(16)_01(r00)a.jpg</picture>
 				<vendor>Бембі</vendor>
 				<param name="Розмір">55</param>
@@ -7038,7 +7038,7 @@
 				<article>032107122</article>
 				<categoryId>7e8923fa-d425-11e7-9bd7-f079598fae65</categoryId>
 				<price>632</price>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>4</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/kb210(22)_01(xm0)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/kb210(22)_01(xm0)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -7645,7 +7645,7 @@
 				<article>143857266</article>
 				<categoryId>7e892405-d425-11e7-9bd7-f079598fae65</categoryId>
 				<price>489</price>
-				<stock_quantity>7</stock_quantity>
+				<stock_quantity>6</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/pl385(66)_01(305)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/pl385(66)_01(305)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -8193,13 +8193,13 @@
 				<param name="Склад">Бавовна 60%, Поліестер 40%</param>
 				<param name="Країна виробник">Україна</param>
 			</offer>
-			<offer id="6753b760-261c-11ee-8129-0c9d92ccc742" available="true">
+			<offer id="6753b760-261c-11ee-8129-0c9d92ccc742" available="false">
 				<currencyId>UAH</currencyId>
 				<name_ua>Джемпер ДЖ334 трикотаж, р.134 / Чорний / Y00</name_ua>
 				<article>353344222</article>
 				<categoryId>9731d899-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>312</price>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/dj334(22)_01(y00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/dj334(22)_01(y00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -8257,13 +8257,13 @@
 				<param name="Склад">Бавовна 85%, Поліестер 15%</param>
 				<param name="Країна виробник">Україна</param>
 			</offer>
-			<offer id="9264941e-2d0d-11ee-8129-0c9d92ccc742" available="true">
+			<offer id="9264941e-2d0d-11ee-8129-0c9d92ccc742" available="false">
 				<currencyId>UAH</currencyId>
 				<name_ua>Сукня ПЛ384 трикотаж, р.116 / Рожевий, Малюнок / 301</name_ua>
 				<article>143847222</article>
 				<categoryId>7e892405-d425-11e7-9bd7-f079598fae65</categoryId>
 				<price>576</price>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/pl384(22)_01(301)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/pl384(22)_01(301)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -8757,7 +8757,7 @@
 				<article>353294122</article>
 				<categoryId>9731d899-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>320</price>
-				<stock_quantity>16</stock_quantity>
+				<stock_quantity>15</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/dj329(22)_01(h00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/dj329(22)_01(h00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -9708,7 +9708,7 @@
 				<article>353344222</article>
 				<categoryId>9731d899-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>272</price>
-				<stock_quantity>12</stock_quantity>
+				<stock_quantity>10</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/dj334(22)_01(y00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/dj334(22)_01(y00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -9814,7 +9814,7 @@
 				<article>353294122</article>
 				<categoryId>9731d899-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>320</price>
-				<stock_quantity>9</stock_quantity>
+				<stock_quantity>7</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/dj329(22)_01(y00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/dj329(22)_01(y00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -10489,7 +10489,7 @@
 				<article>267847222</article>
 				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>208</price>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/shr784(22)_01(r01)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/shr784(22)_01(r01)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -11450,13 +11450,13 @@
 				<param name="Склад">Бавовна 60%, Поліестер 40%</param>
 				<param name="Країна виробник">Україна</param>
 			</offer>
-			<offer id="a006e073-2620-11ee-8129-0c9d92ccc742" available="true">
+			<offer id="a006e073-2620-11ee-8129-0c9d92ccc742" available="false">
 				<currencyId>UAH</currencyId>
 				<name_ua>Костюм спортивний утеплений КС749 трикотаж, р. 86 / Бірюзовий, Малюнок / R01</name_ua>
 				<article>067497222</article>
 				<categoryId>bc7102c2-1433-11ef-812f-f4f26d0481b7</categoryId>
 				<price>608</price>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/ks749(22)_01(r01).jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/ks749(22)_01(r01)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/ks749(22)_01(r01)b.jpg</picture>
@@ -11752,7 +11752,7 @@
 				<article>143847222</article>
 				<categoryId>7e892405-d425-11e7-9bd7-f079598fae65</categoryId>
 				<price>672</price>
-				<stock_quantity>6</stock_quantity>
+				<stock_quantity>5</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/pl384(22)_01(301)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/pl384(22)_01(301)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -11916,7 +11916,7 @@
 				<article>353354222</article>
 				<categoryId>9731d899-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>552</price>
-				<stock_quantity>3</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/dj335(22)_01(200)_1.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/dj335(22)_01(200)_2.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/dj335(22)_01(200)a.jpg</picture>
@@ -12379,13 +12379,13 @@
 				<param name="Склад">Бавовна 85%, Поліестер 15%</param>
 				<param name="Країна виробник">Україна</param>
 			</offer>
-			<offer id="023e810f-2621-11ee-8129-0c9d92ccc742" available="true">
+			<offer id="023e810f-2621-11ee-8129-0c9d92ccc742" available="false">
 				<currencyId>UAH</currencyId>
 				<name_ua>Костюм спортивний КС750 трикотаж, р.116 / Молочний / 200</name_ua>
 				<article>067507222</article>
 				<categoryId>4d458f06-110f-11ef-812f-f4f26d0481b7</categoryId>
 				<price>1024</price>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/ks750(22)_01(200).jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/ks750(22)_01(200)_1.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/ks750(22)_01(200)a.jpg</picture>
@@ -12592,7 +12592,7 @@
 				<article>353314122</article>
 				<categoryId>9731d899-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>432</price>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/dj331(22)_01(xm0)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/dj331(22)_01(xm0)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -13485,7 +13485,7 @@
 				<article>353294122</article>
 				<categoryId>9731d899-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>272</price>
-				<stock_quantity>10</stock_quantity>
+				<stock_quantity>9</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/dj329(22)_01(y00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/dj329(22)_01(y00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -13633,7 +13633,7 @@
 				<article>249793110</article>
 				<categoryId>9731d85b-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>399</price>
-				<stock_quantity>16</stock_quantity>
+				<stock_quantity>15</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/fb979(10)_01(h00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/fb979(10)_01(h00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -14196,7 +14196,7 @@
 				<article>400473033</article>
 				<categoryId>7e89241f-d425-11e7-9bd7-f079598fae65</categoryId>
 				<price>899</price>
-				<stock_quantity>22</stock_quantity>
+				<stock_quantity>21</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/jl47(33)_01(681)1a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/jl47(33)_01(681)1b.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/jl47(33)_01(681)d.jpg</picture>
@@ -15134,7 +15134,7 @@
 				<article>249227211</article>
 				<categoryId>9731d85d-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>224</price>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/fb922(11)_01(i00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/fb922(11)_01(i00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -15380,7 +15380,7 @@
 				<article>072257222</article>
 				<categoryId>9731d84e-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>768</price>
-				<stock_quantity>3</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/kf225(22)_01(r00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/kf225(22)_01(r00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -15643,7 +15643,7 @@
 				<article>353294122</article>
 				<categoryId>9731d899-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>272</price>
-				<stock_quantity>16</stock_quantity>
+				<stock_quantity>15</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/dj329(22)_01(h00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/dj329(22)_01(h00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -16229,7 +16229,7 @@
 				<article>249207211</article>
 				<categoryId>9731d85b-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>188</price>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>4</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/fb920(11)_01(u00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/fb920(11)_01(u00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -16335,7 +16335,7 @@
 				<article>353314122</article>
 				<categoryId>9731d899-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>432</price>
-				<stock_quantity>6</stock_quantity>
+				<stock_quantity>3</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/dj331(22)_01(xm0)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/dj331(22)_01(xm0)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -16455,7 +16455,7 @@
 				<article>268285210</article>
 				<categoryId>7e892411-d425-11e7-9bd7-f079598fae65</categoryId>
 				<price>242</price>
-				<stock_quantity>11</stock_quantity>
+				<stock_quantity>10</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/shr828(10)_01(q00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/shr828(10)_01(q00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -16846,7 +16846,7 @@
 				<article>268285210</article>
 				<categoryId>7e892411-d425-11e7-9bd7-f079598fae65</categoryId>
 				<price>242</price>
-				<stock_quantity>10</stock_quantity>
+				<stock_quantity>9</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/shr828(10)_01(300)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/shr828(10)_01(300)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -17037,7 +17037,7 @@
 				<article>268017222</article>
 				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>496</price>
-				<stock_quantity>3</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/shr801(22)_01(200)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/shr801(22)_01(200)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -17259,7 +17259,7 @@
 				<article>268017222</article>
 				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>640</price>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/shr801(22)_01(r00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/shr801(22)_01(r00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -17692,13 +17692,13 @@
 				<param name="Склад">Бавовна 85%, Поліестер 15%</param>
 				<param name="Країна виробник">Україна</param>
 			</offer>
-			<offer id="a9be5105-10e9-11ee-8129-0c9d92ccc742" available="true">
+			<offer id="a9be5105-10e9-11ee-8129-0c9d92ccc742" available="false">
 				<currencyId>UAH</currencyId>
 				<name_ua>Штани ШР801 трикотаж, р.134 / Абрикосовий / I00</name_ua>
 				<article>268017222</article>
 				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>584</price>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/shr801(22)_01(i00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/shr801(22)_01(i00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -18371,13 +18371,13 @@
 				<param name="Склад">Бавовна 60%, Поліестер 40%</param>
 				<param name="Країна виробник">Україна</param>
 			</offer>
-			<offer id="16b0f6a4-11ee-11ed-8110-0c9d92ccc742" available="true">
+			<offer id="16b0f6a4-11ee-11ed-8110-0c9d92ccc742" available="false">
 				<currencyId>UAH</currencyId>
 				<name_ua>Сукня ПЛ361 інтерлок, р. 86 / М`ятний / U00</name_ua>
 				<article>143617211</article>
 				<categoryId>7e892405-d425-11e7-9bd7-f079598fae65</categoryId>
 				<price>232</price>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/pl361(11)_01(u00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/pl361(11)_01(u00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -18465,7 +18465,7 @@
 				<article>268285210</article>
 				<categoryId>7e892411-d425-11e7-9bd7-f079598fae65</categoryId>
 				<price>215</price>
-				<stock_quantity>6</stock_quantity>
+				<stock_quantity>5</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/shr828(10)_01(q00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/shr828(10)_01(q00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -18723,7 +18723,7 @@
 				<article>067507222</article>
 				<categoryId>4d458f06-110f-11ef-812f-f4f26d0481b7</categoryId>
 				<price>1200</price>
-				<stock_quantity>5</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/ks750(22)_01(200).jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/ks750(22)_01(200)_1.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/ks750(22)_01(200)a.jpg</picture>
@@ -18874,7 +18874,7 @@
 				<article>353294122</article>
 				<categoryId>9731d899-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>272</price>
-				<stock_quantity>8</stock_quantity>
+				<stock_quantity>6</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/dj329(22)_01(y00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/dj329(22)_01(y00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -18914,7 +18914,7 @@
 				<article>268285210</article>
 				<categoryId>7e892411-d425-11e7-9bd7-f079598fae65</categoryId>
 				<price>215</price>
-				<stock_quantity>9</stock_quantity>
+				<stock_quantity>8</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/shr828(10)_01(q00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/shr828(10)_01(q00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -19539,13 +19539,13 @@
 				<param name="Склад">Бавовна 95%, Еластан 5%</param>
 				<param name="Країна виробник">Україна</param>
 			</offer>
-			<offer id="24eacc1f-faf2-11ed-8129-0c9d92ccc742" available="true">
+			<offer id="24eacc1f-faf2-11ed-8129-0c9d92ccc742" available="false">
 				<currencyId>UAH</currencyId>
 				<name_ua>Костюм спортивний утеплений КС747 трикотаж, р.122 / Чорний / Y00</name_ua>
 				<article>067477122</article>
 				<categoryId>bc7102c2-1433-11ef-812f-f4f26d0481b7</categoryId>
 				<price>1008</price>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/ks747(22)_01(y00).jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/ks747(22)_01(y00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/ks747(22)_01(y00)b.jpg</picture>
@@ -19825,13 +19825,13 @@
 				<param name="Склад">Бавовна 100%</param>
 				<param name="Країна виробник">Україна</param>
 			</offer>
-			<offer id="b900cb20-260c-11ee-8129-0c9d92ccc742" available="true">
+			<offer id="b900cb20-260c-11ee-8129-0c9d92ccc742" available="false">
 				<currencyId>UAH</currencyId>
 				<name_ua>Джемпер ДЖ331 трикотаж, р.146 / Сірий, Меланж / XM0</name_ua>
 				<article>353314122</article>
 				<categoryId>9731d899-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>400</price>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/dj331(22)_01(xm0)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/dj331(22)_01(xm0)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -19991,7 +19991,7 @@
 				<article>353294122</article>
 				<categoryId>9731d899-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>320</price>
-				<stock_quantity>6</stock_quantity>
+				<stock_quantity>5</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/dj329(22)_01(y00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/dj329(22)_01(y00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -20460,7 +20460,7 @@
 				<article>353294122</article>
 				<categoryId>9731d899-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>352</price>
-				<stock_quantity>11</stock_quantity>
+				<stock_quantity>10</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/dj329(22)_01(h00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/dj329(22)_01(h00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -20480,7 +20480,7 @@
 				<article>249793110</article>
 				<categoryId>9731d85b-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>399</price>
-				<stock_quantity>7</stock_quantity>
+				<stock_quantity>6</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/fb979(10)_01(200)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/fb979(10)_01(200)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -20841,7 +20841,7 @@
 				<article>267677222</article>
 				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>320</price>
-				<stock_quantity>3</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/shr767(22)_01(f00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/shr767(22)_01(f00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -21248,13 +21248,13 @@
 				<param name="Склад">Бавовна 100%</param>
 				<param name="Країна виробник">Україна</param>
 			</offer>
-			<offer id="ad9df40b-0069-11ee-8129-0c9d92ccc742" available="true">
+			<offer id="ad9df40b-0069-11ee-8129-0c9d92ccc742" available="false">
 				<currencyId>UAH</currencyId>
 				<name_ua>Джемпер ДЖ329 трикотаж, р.122 / Меланж, Сірий / MX0</name_ua>
 				<article>353294122</article>
 				<categoryId>9731d899-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>272</price>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/dj329(22)_01(mx0)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/dj329(22)_01(mx0)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -21729,7 +21729,7 @@
 				<article>067487122</article>
 				<categoryId>bc7102c2-1433-11ef-812f-f4f26d0481b7</categoryId>
 				<price>1096</price>
-				<stock_quantity>4</stock_quantity>
+				<stock_quantity>2</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/ks748(22)_01(800).jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/ks748(22)_01(800)_1.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/ks748(22)_01(800)a.jpg</picture>
@@ -21823,7 +21823,7 @@
 				<article>268017222</article>
 				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>640</price>
-				<stock_quantity>9</stock_quantity>
+				<stock_quantity>7</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/shr801(22)_01(i00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/shr801(22)_01(i00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -21864,7 +21864,7 @@
 				<article>067487122</article>
 				<categoryId>bc7102c2-1433-11ef-812f-f4f26d0481b7</categoryId>
 				<price>1184</price>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/ks748(22)_01(800).jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/ks748(22)_01(800)_1.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/ks748(22)_01(800)a.jpg</picture>
@@ -22208,13 +22208,13 @@
 				<param name="Склад">Бавовна 95%, Еластан 5%</param>
 				<param name="Країна виробник">Україна</param>
 			</offer>
-			<offer id="a9be5106-10e9-11ee-8129-0c9d92ccc742" available="true">
+			<offer id="a9be5106-10e9-11ee-8129-0c9d92ccc742" available="false">
 				<currencyId>UAH</currencyId>
 				<name_ua>Штани ШР801 трикотаж, р.134 / Бірюзовий / R00</name_ua>
 				<article>268017222</article>
 				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>584</price>
-				<stock_quantity>1</stock_quantity>
+				<stock_quantity>0</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/shr801(22)_01(r00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/shr801(22)_01(r00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -22644,7 +22644,7 @@
 				<article>267437234</article>
 				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>367</price>
-				<stock_quantity>2</stock_quantity>
+				<stock_quantity>1</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/img_0881.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/shr743(34)_01(e00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/shr743(34)_01(e00)b.jpg</picture>
@@ -22833,7 +22833,7 @@
 				<article>249785110</article>
 				<categoryId>9731d85b-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>397</price>
-				<stock_quantity>10</stock_quantity>
+				<stock_quantity>9</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/fb978(10)_01(500)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/fb978(10)_01(500)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -23122,7 +23122,7 @@
 				<article>353344222</article>
 				<categoryId>9731d899-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>312</price>
-				<stock_quantity>7</stock_quantity>
+				<stock_quantity>4</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/dj334(22)_01(y00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/dj334(22)_01(y00)b.jpg</picture>
 				<vendor>Бембі</vendor>
@@ -24123,7 +24123,7 @@
 				<article>353044122</article>
 				<categoryId>9731d899-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>280</price>
-				<stock_quantity>6</stock_quantity>
+				<stock_quantity>5</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/dj304(22)_01(hx0)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/dj304(22)_01(hx0)b.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/dj304(22)_01(hx0)c.jpg</picture>
@@ -24213,7 +24213,7 @@
 				<article>267677222</article>
 				<categoryId>9731d865-7254-11e8-bc9e-28107b461651</categoryId>
 				<price>400</price>
-				<stock_quantity>12</stock_quantity>
+				<stock_quantity>11</stock_quantity>
 				<picture>https://shop.bembi.ua/uploads/products/shr767(22)_01(f00)a.jpg</picture>
 				<picture>https://shop.bembi.ua/uploads/products/shr767(22)_01(f00)b.jpg</picture>
 				<vendor>Бембі</vendor>
